@@ -1,0 +1,6 @@
+{
+  "window": 20,
+  "bias_alpha": 0.01,
+  "edge_threshold": 4,
+  "enabled": false
+}

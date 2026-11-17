@@ -1,0 +1,55 @@
+{
+  "updated_at": "2026-11-13T22:57:06.844795+00:00",
+  "policy": "Cotes relevées depuis moins de 4 h. Signal si rendement estimé ≥ 5 %. Suivi expérimental à mise fixe.",
+  "quality": {
+    "games_analysed": 174,
+    "moneyline_accuracy": 0.701,
+    "strong_picks": 73,
+    "strong_moneyline_accuracy": 0.836,
+    "strong_pick_threshold": 0.68,
+    "strong_total_picks": 174,
+    "strong_total_accuracy": 0.592,
+    "strong_total_threshold": 8,
+    "home_pick_accuracy": 0.673,
+    "away_pick_accuracy": 0.746,
+    "recent_strong_picks": 11,
+    "recent_strong_accuracy": 0.909,
+    "safe_total_accuracy": 0.592,
+    "raw_total_accuracy": 0.454,
+    "brier_score": 0.197
+  },
+  "catalog": [
+    {
+      "market": "Vainqueur",
+      "status": "analyse",
+      "source": "Elo, écart au score et transition de saison",
+      "rule": "cote bookmaker requise pour comparer au marché"
+    },
+    {
+      "market": "Total match",
+      "status": "analyse",
+      "source": "projection de total + lignes Pinnacle/FanDuel si disponibles",
+      "rule": "cote et ligne exactes requises"
+    },
+    {
+      "market": "1re mi-temps",
+      "status": "en attente",
+      "source": "ligne 1re mi-temps vérifiée requise",
+      "rule": "pas de pick sans source"
+    },
+    {
+      "market": "Handicap / total équipe",
+      "status": "en attente",
+      "source": "lignes dédiées et modèle par équipe requis",
+      "rule": "pas de pick sans source"
+    },
+    {
+      "market": "Stats joueurs",
+      "status": "en attente",
+      "source": "minutes, blessures, statuts et lignes props vérifiés requis",
+      "rule": "pas de pick sans source"
+    }
+  ],
+  "recommendations": [],
+  "watchlist": []
+}

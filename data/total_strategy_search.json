@@ -1,0 +1,23 @@
+{
+  "selected": {
+    "window": 20,
+    "bias_alpha": 0.01,
+    "edge_threshold": 4,
+    "enabled": false
+  },
+  "selection": {
+    "games": 1234,
+    "picks": 611,
+    "accuracy": 0.5384615384615384,
+    "mae": 15.237034035656402
+  },
+  "holdout": {
+    "games": 1405,
+    "picks": 803,
+    "accuracy": 0.4943960149439601,
+    "mae": 15.474021352313168
+  },
+  "candidates_tested": 120,
+  "enabled": false,
+  "policy": "Sélection sur 2024-25 ; vérification séparée sur 2025-26 et après. La stratégie est désactivée si elle ne dépasse pas 52 % sur la vérification indépendante."
+}

@@ -1,0 +1,33 @@
+{
+  "selected": {
+    "home_advantage": 70,
+    "form_weight": 0,
+    "back_to_back_weight": 0,
+    "k_factor": 24,
+    "season_retention": 0.65,
+    "score_margin": true
+  },
+  "selection": {
+    "games": 1234,
+    "all_game_accuracy": 0.6701782820097245,
+    "picks": 546,
+    "accuracy": 0.7582417582417582,
+    "brier": 0.21190253867743747
+  },
+  "holdout": {
+    "games": 1409,
+    "all_game_accuracy": 0.6926898509581263,
+    "picks": 625,
+    "accuracy": 0.7872,
+    "brier": 0.2050726640291465
+  },
+  "baseline_holdout": {
+    "games": 1409,
+    "all_game_accuracy": 0.6792051100070973,
+    "picks": 719,
+    "accuracy": 0.7566063977746871,
+    "brier": 0.20958027109768324
+  },
+  "candidates_tested": 55,
+  "policy": "Sélection sur 2024-25 ; vérification séparée sur 2025-26 et après. Choix au score de Brier ; le sous-ensemble simulé utilise 68 % de confiance brute."
+}

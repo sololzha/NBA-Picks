@@ -1,0 +1,140 @@
+{
+  "tuning_season": "2025",
+  "total_promotion_season": "2026",
+  "evaluation_seasons": [
+    "2027",
+    "2027"
+  ],
+  "evaluation_from": "2026-10-20",
+  "evaluation_through": "2026-11-12",
+  "odds_snapshots": {
+    "total": 14
+  },
+  "winner": {
+    "selected": {
+      "home_advantage": 45,
+      "form_weight": 0,
+      "back_to_back_weight": 40,
+      "k_factor": 24,
+      "season_retention": 0.45,
+      "score_margin": true,
+      "temperature": 1.0
+    },
+    "candidates": 864,
+    "validation": {
+      "wins": 835,
+      "count": 1234,
+      "accuracy": 0.6766612641815235,
+      "brier": 0.2104035994933272
+    },
+    "test": {
+      "wins": 119,
+      "count": 174,
+      "accuracy": 0.6839080459770115,
+      "brier": 0.20275415041218828
+    },
+    "baseline": {
+      "wins": 122,
+      "count": 174,
+      "accuracy": 0.7011494252873564,
+      "brier": 0.19713028684972358
+    },
+    "since_2025": {
+      "wins": 976,
+      "count": 1409,
+      "accuracy": 0.6926898509581263,
+      "brier": 0.2047011885205692
+    },
+    "baseline_since_2025": {
+      "wins": 976,
+      "count": 1409,
+      "accuracy": 0.6926898509581263,
+      "brier": 0.2050618209903774
+    }
+  },
+  "total": {
+    "selected": {
+      "window": 20,
+      "bias_alpha": 0.01,
+      "recent_weight": 0,
+      "regression": 1.25,
+      "rating_alpha": 0.1
+    },
+    "candidates": 120,
+    "validation": {
+      "wins": 780,
+      "count": 1234,
+      "accuracy": 0.6320907617504052,
+      "brier": 0.2338192793894037,
+      "mae": 15.818321690810068,
+      "always_under_accuracy": 0.4813614262560778
+    },
+    "test": {
+      "wins": 107,
+      "count": 174,
+      "accuracy": 0.6149425287356322,
+      "brier": 0.24032420186203654,
+      "mae": 16.102368873710486,
+      "always_under_accuracy": 0.6206896551724138
+    },
+    "baseline": {
+      "wins": 102,
+      "count": 174,
+      "accuracy": 0.5862068965517241,
+      "brier": 0.2399034326197988,
+      "mae": 15.019540229885063,
+      "always_under_accuracy": 0.6206896551724138
+    },
+    "promotion_challenger": {
+      "wins": 750,
+      "count": 1235,
+      "accuracy": 0.6072874493927125,
+      "brier": 0.24202390238073868,
+      "mae": 16.355813217749116,
+      "always_under_accuracy": 0.4979757085020243
+    },
+    "promotion_baseline": {
+      "wins": 744,
+      "count": 1235,
+      "accuracy": 0.6024291497975709,
+      "brier": 0.2370831531674122,
+      "mae": 15.651956140350862,
+      "always_under_accuracy": 0.4979757085020243
+    },
+    "reference": "Moyenne des 250 derniers totaux, ramenée au demi-point.",
+    "adjusted_test": {
+      "wins": 118,
+      "count": 174,
+      "accuracy": 0.6781609195402298,
+      "brier": 0.225297584084978,
+      "mae": 16.102368873710486,
+      "margin_points": 5
+    },
+    "tests_by_margin": {
+      "0": {
+        "wins": 107,
+        "count": 174,
+        "accuracy": 0.6149425287356322,
+        "brier": 0.24032420186203654,
+        "mae": 16.102368873710486,
+        "always_under_accuracy": 0.6206896551724138
+      },
+      "5": {
+        "wins": 118,
+        "count": 174,
+        "accuracy": 0.6781609195402298,
+        "brier": 0.225297584084978,
+        "mae": 16.102368873710486,
+        "margin_points": 5
+      },
+      "10": {
+        "wins": 136,
+        "count": 174,
+        "accuracy": 0.7816091954022989,
+        "brier": 0.17151768999653946,
+        "mae": 16.102368873710486,
+        "margin_points": 10
+      }
+    }
+  }
+}

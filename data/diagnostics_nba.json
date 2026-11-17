@@ -1,0 +1,1823 @@
+{
+  "updated_at": "2026-11-16T07:25:03.635016+00:00",
+  "remote_score_failures": 0,
+  "backtest_notes": {
+    "all": "Le cumul inclut les saisons utilisées pour régler et sélectionner les modèles.",
+    "2025": "Cette saison a servi au réglage des modèles.",
+    "2026": "Cette saison a servi à comparer les modèles over/under avant leur sélection.",
+    "2027": "Cette saison est en cours."
+  },
+  "diagnostics": {
+    "archive": {
+      "markets": {
+        "winner": {
+          "wins": 5,
+          "count": 9,
+          "recent_wins": 5,
+          "recent_count": 9,
+          "calibration": [
+            {
+              "band": "50–59 %",
+              "count": 2,
+              "wins": 1,
+              "mean_probability": 0.5403910363135158
+            },
+            {
+              "band": "60–69 %",
+              "count": 1,
+              "wins": 0,
+              "mean_probability": 0.6965586347471757
+            },
+            {
+              "band": "70–79 %",
+              "count": 5,
+              "wins": 3,
+              "mean_probability": 0.7538326810275094
+            },
+            {
+              "band": "80–89 %",
+              "count": 1,
+              "wins": 1,
+              "mean_probability": 0.894253649790883
+            }
+          ]
+        },
+        "0": {
+          "wins": 8,
+          "count": 9,
+          "recent_wins": 8,
+          "recent_count": 9,
+          "calibration": [
+            {
+              "band": "50–59 %",
+              "count": 1,
+              "wins": 1,
+              "mean_probability": 0.5894097362288111
+            },
+            {
+              "band": "60–69 %",
+              "count": 3,
+              "wins": 3,
+              "mean_probability": 0.663221783366762
+            },
+            {
+              "band": "70–79 %",
+              "count": 3,
+              "wins": 2,
+              "mean_probability": 0.7365699936366684
+            },
+            {
+              "band": "80–89 %",
+              "count": 2,
+              "wins": 2,
+              "mean_probability": 0.853637109619042
+            }
+          ]
+        },
+        "5": {
+          "wins": 8,
+          "count": 9,
+          "recent_wins": 8,
+          "recent_count": 9,
+          "calibration": [
+            {
+              "band": "60–69 %",
+              "count": 1,
+              "wins": 1,
+              "mean_probability": 0.6712974349757499
+            },
+            {
+              "band": "70–79 %",
+              "count": 4,
+              "wins": 4,
+              "mean_probability": 0.750825981463517
+            },
+            {
+              "band": "80–89 %",
+              "count": 3,
+              "wins": 2,
+              "mean_probability": 0.8315937080599172
+            },
+            {
+              "band": "90–100 %",
+              "count": 1,
+              "wins": 1,
+              "mean_probability": 0.9193923429805091
+            }
+          ]
+        },
+        "10": {
+          "wins": 8,
+          "count": 9,
+          "recent_wins": 8,
+          "recent_count": 9,
+          "calibration": [
+            {
+              "band": "70–79 %",
+              "count": 3,
+              "wins": 3,
+              "mean_probability": 0.7776571408840691
+            },
+            {
+              "band": "80–89 %",
+              "count": 4,
+              "wins": 3,
+              "mean_probability": 0.8489089325611434
+            },
+            {
+              "band": "90–100 %",
+              "count": 2,
+              "wins": 2,
+              "mean_probability": 0.9310754286249712
+            }
+          ]
+        }
+      },
+      "projection": {
+        "count": 9,
+        "mae": 12.133333333333333,
+        "bias": 4.066666666666663,
+        "within_10": 4
+      },
+      "winner_context": {},
+      "scoring_context": {},
+      "largest_total_errors": [
+        {
+          "date": "2026-11-13",
+          "match": "Utah Jazz – Houston Rockets",
+          "projected": 213.6,
+          "actual": 243,
+          "difference": 29.400000000000006
+        },
+        {
+          "date": "2026-11-13",
+          "match": "Milwaukee Bucks – Orlando Magic",
+          "projected": 220.4,
+          "actual": 206,
+          "difference": -14.400000000000006
+        },
+        {
+          "date": "2026-11-13",
+          "match": "Golden State Warriors – San Antonio Spurs",
+          "projected": 220.9,
+          "actual": 208,
+          "difference": -12.900000000000006
+        },
+        {
+          "date": "2026-11-13",
+          "match": "Memphis Grizzlies – New Orleans Pelicans",
+          "projected": 240.9,
+          "actual": 253,
+          "difference": 12.099999999999994
+        },
+        {
+          "date": "2026-11-13",
+          "match": "Cleveland Cavaliers – Miami Heat",
+          "projected": 242.9,
+          "actual": 254,
+          "difference": 11.099999999999994
+        }
+      ]
+    },
+    "2025": {
+      "markets": {
+        "winner": {
+          "wins": 827,
+          "count": 1234,
+          "recent_wins": 22,
+          "recent_count": 30,
+          "calibration": [
+            {
+              "band": "50–59 %",
+              "count": 405,
+              "wins": 236,
+              "mean_probability": 0.5518981808707235
+            },
+            {
+              "band": "60–69 %",
+              "count": 336,
+              "wins": 212,
+              "mean_probability": 0.6480418586725395
+            },
+            {
+              "band": "70–79 %",
+              "count": 314,
+              "wins": 223,
+              "mean_probability": 0.7484216509014816
+            },
+            {
+              "band": "80–89 %",
+              "count": 151,
+              "wins": 131,
+              "mean_probability": 0.8426982114750873
+            },
+            {
+              "band": "90–100 %",
+              "count": 28,
+              "wins": 25,
+              "mean_probability": 0.9233133513114494
+            }
+          ]
+        },
+        "0": {
+          "wins": 780,
+          "count": 1234,
+          "recent_wins": 17,
+          "recent_count": 30,
+          "calibration": [
+            {
+              "band": "50–59 %",
+              "count": 368,
+              "wins": 210,
+              "mean_probability": 0.5484111696316835
+            },
+            {
+              "band": "60–69 %",
+              "count": 326,
+              "wins": 197,
+              "mean_probability": 0.6483653876830738
+            },
+            {
+              "band": "70–79 %",
+              "count": 287,
+              "wins": 182,
+              "mean_probability": 0.7468316018785429
+            },
+            {
+              "band": "80–89 %",
+              "count": 193,
+              "wins": 140,
+              "mean_probability": 0.8469023494903511
+            },
+            {
+              "band": "90–100 %",
+              "count": 60,
+              "wins": 51,
+              "mean_probability": 0.9285516052039732
+            }
+          ]
+        },
+        "5": {
+          "wins": 905,
+          "count": 1234,
+          "recent_wins": 19,
+          "recent_count": 30,
+          "calibration": [
+            {
+              "band": "50–59 %",
+              "count": 22,
+              "wins": 20,
+              "mean_probability": 0.5953248370129506
+            },
+            {
+              "band": "60–69 %",
+              "count": 374,
+              "wins": 251,
+              "mean_probability": 0.6494023342151245
+            },
+            {
+              "band": "70–79 %",
+              "count": 364,
+              "wins": 255,
+              "mean_probability": 0.7471878695105517
+            },
+            {
+              "band": "80–89 %",
+              "count": 326,
+              "wins": 254,
+              "mean_probability": 0.8443538387062246
+            },
+            {
+              "band": "90–100 %",
+              "count": 148,
+              "wins": 125,
+              "mean_probability": 0.933740920513657
+            }
+          ]
+        },
+        "10": {
+          "wins": 1008,
+          "count": 1234,
+          "recent_wins": 22,
+          "recent_count": 30,
+          "calibration": [
+            {
+              "band": "60–69 %",
+              "count": 53,
+              "wins": 44,
+              "mean_probability": 0.6888091912368907
+            },
+            {
+              "band": "70–79 %",
+              "count": 448,
+              "wins": 338,
+              "mean_probability": 0.7506052541355027
+            },
+            {
+              "band": "80–89 %",
+              "count": 447,
+              "wins": 370,
+              "mean_probability": 0.8511641800385247
+            },
+            {
+              "band": "90–100 %",
+              "count": 286,
+              "wins": 256,
+              "mean_probability": 0.9394038279797337
+            }
+          ]
+        }
+      },
+      "projection": {
+        "count": 1234,
+        "mae": 15.818321690810084,
+        "bias": -0.8511754799211536,
+        "within_10": 473
+      },
+      "winner_context": {
+        "Aucune équipe en back-to-back": [
+          567,
+          852
+        ],
+        "Au moins une équipe en back-to-back": [
+          258,
+          379
+        ]
+      },
+      "scoring_context": {
+        "Moyenne récente < 230 pts": {
+          "count": 852,
+          "mae": 15.631753866462953
+        },
+        "Moyenne récente ≥ 230 pts": {
+          "count": 382,
+          "mae": 16.234436314746617
+        }
+      },
+      "largest_total_errors": [
+        {
+          "date": "2025-02-16",
+          "match": "Team Shaq – Team Chuck",
+          "projected": 229.4286068297849,
+          "actual": 66,
+          "difference": -163.4286068297849
+        },
+        {
+          "date": "2025-02-16",
+          "match": "Team Kenny – Team Chuck",
+          "projected": 229.4286068297849,
+          "actual": 73,
+          "difference": -156.4286068297849
+        },
+        {
+          "date": "2025-02-16",
+          "match": "Team Candace – Team Shaq",
+          "projected": 229.4286068297849,
+          "actual": 77,
+          "difference": -152.4286068297849
+        },
+        {
+          "date": "2024-10-29",
+          "match": "Denver Nuggets – Brooklyn Nets",
+          "projected": 213.66233469399387,
+          "actual": 283,
+          "difference": 69.33766530600613
+        },
+        {
+          "date": "2024-11-08",
+          "match": "Indiana Pacers – Charlotte Hornets",
+          "projected": 249.11607331483302,
+          "actual": 186,
+          "difference": -63.11607331483302
+        }
+      ]
+    },
+    "2026": {
+      "markets": {
+        "winner": {
+          "wins": 854,
+          "count": 1235,
+          "recent_wins": 20,
+          "recent_count": 30,
+          "calibration": [
+            {
+              "band": "50–59 %",
+              "count": 378,
+              "wins": 236,
+              "mean_probability": 0.5518105724981126
+            },
+            {
+              "band": "60–69 %",
+              "count": 370,
+              "wins": 233,
+              "mean_probability": 0.6480244238710753
+            },
+            {
+              "band": "70–79 %",
+              "count": 296,
+              "wins": 222,
+              "mean_probability": 0.7479559119384583
+            },
+            {
+              "band": "80–89 %",
+              "count": 166,
+              "wins": 142,
+              "mean_probability": 0.8425050434527995
+            },
+            {
+              "band": "90–100 %",
+              "count": 25,
+              "wins": 21,
+              "mean_probability": 0.91635907533089
+            }
+          ]
+        },
+        "0": {
+          "wins": 750,
+          "count": 1235,
+          "recent_wins": 20,
+          "recent_count": 30,
+          "calibration": [
+            {
+              "band": "50–59 %",
+              "count": 434,
+              "wins": 241,
+              "mean_probability": 0.5496355199042464
+            },
+            {
+              "band": "60–69 %",
+              "count": 363,
+              "wins": 216,
+              "mean_probability": 0.6500406055190693
+            },
+            {
+              "band": "70–79 %",
+              "count": 267,
+              "wins": 173,
+              "mean_probability": 0.745248989442738
+            },
+            {
+              "band": "80–89 %",
+              "count": 140,
+              "wins": 94,
+              "mean_probability": 0.8410002776190073
+            },
+            {
+              "band": "90–100 %",
+              "count": 31,
+              "wins": 26,
+              "mean_probability": 0.9245536437548271
+            }
+          ]
+        },
+        "5": {
+          "wins": 873,
+          "count": 1235,
+          "recent_wins": 24,
+          "recent_count": 30,
+          "calibration": [
+            {
+              "band": "50–59 %",
+              "count": 30,
+              "wins": 17,
+              "mean_probability": 0.5931423280036443
+            },
+            {
+              "band": "60–69 %",
+              "count": 450,
+              "wins": 294,
+              "mean_probability": 0.6481109213737783
+            },
+            {
+              "band": "70–79 %",
+              "count": 400,
+              "wins": 292,
+              "mean_probability": 0.747226707920595
+            },
+            {
+              "band": "80–89 %",
+              "count": 275,
+              "wins": 207,
+              "mean_probability": 0.8432494123432016
+            },
+            {
+              "band": "90–100 %",
+              "count": 80,
+              "wins": 63,
+              "mean_probability": 0.9302880867223159
+            }
+          ]
+        },
+        "10": {
+          "wins": 958,
+          "count": 1235,
+          "recent_wins": 26,
+          "recent_count": 30,
+          "calibration": [
+            {
+              "band": "60–69 %",
+              "count": 113,
+              "wins": 74,
+              "mean_probability": 0.6881325743061234
+            },
+            {
+              "band": "70–79 %",
+              "count": 483,
+              "wins": 367,
+              "mean_probability": 0.7498770085331892
+            },
+            {
+              "band": "80–89 %",
+              "count": 455,
+              "wins": 360,
+              "mean_probability": 0.8463048832742271
+            },
+            {
+              "band": "90–100 %",
+              "count": 184,
+              "wins": 157,
+              "mean_probability": 0.9339695381850702
+            }
+          ]
+        }
+      },
+      "projection": {
+        "count": 1235,
+        "mae": 16.35581321774909,
+        "bias": 0.07206421925844989,
+        "within_10": 481
+      },
+      "winner_context": {
+        "Aucune équipe en back-to-back": [
+          606,
+          860
+        ],
+        "Au moins une équipe en back-to-back": [
+          245,
+          371
+        ]
+      },
+      "scoring_context": {
+        "Moyenne récente ≥ 230 pts": {
+          "count": 681,
+          "mae": 15.984553996262745
+        },
+        "Moyenne récente < 230 pts": {
+          "count": 554,
+          "mae": 16.812180600117685
+        }
+      },
+      "largest_total_errors": [
+        {
+          "date": "2026-02-15",
+          "match": "Team Stars – Team Stripes",
+          "projected": 227.9016099473827,
+          "actual": 68,
+          "difference": -159.9016099473827
+        },
+        {
+          "date": "2026-02-15",
+          "match": "World – Team Stars",
+          "projected": 227.9016099473827,
+          "actual": 72,
+          "difference": -155.9016099473827
+        },
+        {
+          "date": "2026-02-15",
+          "match": "Team Stars – Team Stripes",
+          "projected": 227.9016099473827,
+          "actual": 82,
+          "difference": -145.9016099473827
+        },
+        {
+          "date": "2026-02-15",
+          "match": "World – Team Stripes",
+          "projected": 227.9016099473827,
+          "actual": 93,
+          "difference": -134.9016099473827
+        },
+        {
+          "date": "2026-02-27",
+          "match": "Brooklyn Nets – Boston Celtics",
+          "projected": 190.59758066871686,
+          "actual": 259,
+          "difference": 68.40241933128314
+        }
+      ]
+    },
+    "2027": {
+      "markets": {
+        "winner": {
+          "wins": 127,
+          "count": 183,
+          "recent_wins": 22,
+          "recent_count": 30,
+          "calibration": [
+            {
+              "band": "50–59 %",
+              "count": 54,
+              "wins": 33,
+              "mean_probability": 0.5470641313468616
+            },
+            {
+              "band": "60–69 %",
+              "count": 60,
+              "wins": 37,
+              "mean_probability": 0.6474339971719503
+            },
+            {
+              "band": "70–79 %",
+              "count": 43,
+              "wins": 32,
+              "mean_probability": 0.7462763254364191
+            },
+            {
+              "band": "80–89 %",
+              "count": 26,
+              "wins": 25,
+              "mean_probability": 0.8439024589380261
+            }
+          ]
+        },
+        "0": {
+          "wins": 115,
+          "count": 183,
+          "recent_wins": 21,
+          "recent_count": 30,
+          "calibration": [
+            {
+              "band": "50–59 %",
+              "count": 48,
+              "wins": 28,
+              "mean_probability": 0.5466054052390881
+            },
+            {
+              "band": "60–69 %",
+              "count": 63,
+              "wins": 40,
+              "mean_probability": 0.6491035287993941
+            },
+            {
+              "band": "70–79 %",
+              "count": 46,
+              "wins": 27,
+              "mean_probability": 0.7447247108450843
+            },
+            {
+              "band": "80–89 %",
+              "count": 21,
+              "wins": 15,
+              "mean_probability": 0.8477945118222349
+            },
+            {
+              "band": "90–100 %",
+              "count": 5,
+              "wins": 5,
+              "mean_probability": 0.9384164324588069
+            }
+          ]
+        },
+        "5": {
+          "wins": 126,
+          "count": 183,
+          "recent_wins": 22,
+          "recent_count": 30,
+          "calibration": [
+            {
+              "band": "50–59 %",
+              "count": 5,
+              "wins": 3,
+              "mean_probability": 0.5920531021566301
+            },
+            {
+              "band": "60–69 %",
+              "count": 58,
+              "wins": 40,
+              "mean_probability": 0.6494230960222328
+            },
+            {
+              "band": "70–79 %",
+              "count": 67,
+              "wins": 44,
+              "mean_probability": 0.7496845932350742
+            },
+            {
+              "band": "80–89 %",
+              "count": 41,
+              "wins": 29,
+              "mean_probability": 0.8457950871770585
+            },
+            {
+              "band": "90–100 %",
+              "count": 12,
+              "wins": 10,
+              "mean_probability": 0.9321168394295863
+            }
+          ]
+        },
+        "10": {
+          "wins": 144,
+          "count": 183,
+          "recent_wins": 26,
+          "recent_count": 30,
+          "calibration": [
+            {
+              "band": "60–69 %",
+              "count": 20,
+              "wins": 14,
+              "mean_probability": 0.68515198315735
+            },
+            {
+              "band": "70–79 %",
+              "count": 66,
+              "wins": 53,
+              "mean_probability": 0.7549914795784703
+            },
+            {
+              "band": "80–89 %",
+              "count": 71,
+              "wins": 53,
+              "mean_probability": 0.8457004762485736
+            },
+            {
+              "band": "90–100 %",
+              "count": 26,
+              "wins": 24,
+              "mean_probability": 0.9367907934636382
+            }
+          ]
+        }
+      },
+      "projection": {
+        "count": 183,
+        "mae": 15.907492968260375,
+        "bias": -0.09762562643000125,
+        "within_10": 71
+      },
+      "winner_context": {
+        "Aucune équipe en back-to-back": [
+          87,
+          134
+        ],
+        "Au moins une équipe en back-to-back": [
+          40,
+          49
+        ]
+      },
+      "scoring_context": {
+        "Moyenne récente < 230 pts": {
+          "count": 66,
+          "mae": 16.003909372136746
+        },
+        "Moyenne récente ≥ 230 pts": {
+          "count": 117,
+          "mae": 15.853104227612167
+        }
+      },
+      "largest_total_errors": [
+        {
+          "date": "2026-11-12",
+          "match": "Detroit Pistons – Washington Wizards",
+          "projected": 217.33915945961866,
+          "actual": 284,
+          "difference": 66.66084054038134
+        },
+        {
+          "date": "2026-10-22",
+          "match": "Denver Nuggets – Oklahoma City Thunder",
+          "projected": 246.3306502412459,
+          "actual": 180,
+          "difference": -66.3306502412459
+        },
+        {
+          "date": "2026-10-28",
+          "match": "Denver Nuggets – New Orleans Pelicans",
+          "projected": 259.32926009684985,
+          "actual": 195,
+          "difference": -64.32926009684985
+        },
+        {
+          "date": "2026-11-06",
+          "match": "Washington Wizards – Atlanta Hawks",
+          "projected": 219.92252954542835,
+          "actual": 271,
+          "difference": 51.07747045457165
+        },
+        {
+          "date": "2026-10-27",
+          "match": "Portland Trail Blazers – Los Angeles Lakers",
+          "projected": 220.6744207261276,
+          "actual": 265,
+          "difference": 44.32557927387239
+        }
+      ]
+    },
+    "all": {
+      "markets": {
+        "winner": {
+          "wins": 1808,
+          "count": 2652,
+          "recent_wins": 22,
+          "recent_count": 30,
+          "calibration": [
+            {
+              "band": "50–59 %",
+              "count": 837,
+              "wins": 505,
+              "mean_probability": 0.5515467416363921
+            },
+            {
+              "band": "60–69 %",
+              "count": 766,
+              "wins": 482,
+              "mean_probability": 0.6479858239903239
+            },
+            {
+              "band": "70–79 %",
+              "count": 653,
+              "wins": 477,
+              "mean_probability": 0.748069265406761
+            },
+            {
+              "band": "80–89 %",
+              "count": 343,
+              "wins": 298,
+              "mean_probability": 0.842696008974611
+            },
+            {
+              "band": "90–100 %",
+              "count": 53,
+              "wins": 46,
+              "mean_probability": 0.920033032452695
+            }
+          ]
+        },
+        "0": {
+          "wins": 1645,
+          "count": 2652,
+          "recent_wins": 21,
+          "recent_count": 30,
+          "calibration": [
+            {
+              "band": "50–59 %",
+              "count": 850,
+              "wins": 479,
+              "mean_probability": 0.5489343358992691
+            },
+            {
+              "band": "60–69 %",
+              "count": 752,
+              "wins": 453,
+              "mean_probability": 0.649235875668173
+            },
+            {
+              "band": "70–79 %",
+              "count": 600,
+              "wins": 382,
+              "mean_probability": 0.7459658110320445
+            },
+            {
+              "band": "80–89 %",
+              "count": 354,
+              "wins": 249,
+              "mean_probability": 0.8446211216569653
+            },
+            {
+              "band": "90–100 %",
+              "count": 96,
+              "wins": 82,
+              "mean_probability": 0.9277743899055424
+            }
+          ]
+        },
+        "5": {
+          "wins": 1904,
+          "count": 2652,
+          "recent_wins": 22,
+          "recent_count": 30,
+          "calibration": [
+            {
+              "band": "50–59 %",
+              "count": 57,
+              "wins": 40,
+              "mean_probability": 0.593889153775042
+            },
+            {
+              "band": "60–69 %",
+              "count": 882,
+              "wins": 585,
+              "mean_probability": 0.6487448154012997
+            },
+            {
+              "band": "70–79 %",
+              "count": 831,
+              "wins": 591,
+              "mean_probability": 0.747407864520853
+            },
+            {
+              "band": "80–89 %",
+              "count": 642,
+              "wins": 490,
+              "mean_probability": 0.8439728012256528
+            },
+            {
+              "band": "90–100 %",
+              "count": 240,
+              "wins": 198,
+              "mean_probability": 0.9325087718623397
+            }
+          ]
+        },
+        "10": {
+          "wins": 2110,
+          "count": 2652,
+          "recent_wins": 26,
+          "recent_count": 30,
+          "calibration": [
+            {
+              "band": "60–69 %",
+              "count": 186,
+              "wins": 132,
+              "mean_probability": 0.6880048800822266
+            },
+            {
+              "band": "70–79 %",
+              "count": 997,
+              "wins": 758,
+              "mean_probability": 0.7505428150716295
+            },
+            {
+              "band": "80–89 %",
+              "count": 973,
+              "wins": 783,
+              "mean_probability": 0.8484931594867858
+            },
+            {
+              "band": "90–100 %",
+              "count": 496,
+              "wins": 437,
+              "mean_probability": 0.9372509081820793
+            }
+          ]
+        }
+      },
+      "projection": {
+        "count": 2652,
+        "mae": 16.07477733920491,
+        "bias": -0.3692370743119186,
+        "within_10": 1025
+      },
+      "winner_context": {
+        "Aucune équipe en back-to-back": [
+          1260,
+          1846
+        ],
+        "Au moins une équipe en back-to-back": [
+          543,
+          799
+        ]
+      },
+      "scoring_context": {
+        "Moyenne récente < 230 pts": {
+          "count": 1472,
+          "mae": 16.092704052481427
+        },
+        "Moyenne récente ≥ 230 pts": {
+          "count": 1180,
+          "mae": 16.052414523998948
+        }
+      },
+      "largest_total_errors": [
+        {
+          "date": "2025-02-16",
+          "match": "Team Shaq – Team Chuck",
+          "projected": 229.4286068297849,
+          "actual": 66,
+          "difference": -163.4286068297849
+        },
+        {
+          "date": "2026-02-15",
+          "match": "Team Stars – Team Stripes",
+          "projected": 227.9016099473827,
+          "actual": 68,
+          "difference": -159.9016099473827
+        },
+        {
+          "date": "2025-02-16",
+          "match": "Team Kenny – Team Chuck",
+          "projected": 229.4286068297849,
+          "actual": 73,
+          "difference": -156.4286068297849
+        },
+        {
+          "date": "2026-02-15",
+          "match": "World – Team Stars",
+          "projected": 227.9016099473827,
+          "actual": 72,
+          "difference": -155.9016099473827
+        },
+        {
+          "date": "2025-02-16",
+          "match": "Team Candace – Team Shaq",
+          "projected": 229.4286068297849,
+          "actual": 77,
+          "difference": -152.4286068297849
+        }
+      ]
+    }
+  },
+  "archive_rows": [
+    [
+      "2026-11-13",
+      "New York Knicks – Indiana Pacers",
+      "winner",
+      "New York Knicks",
+      [
+        106,
+        104
+      ],
+      "Raté",
+      "hoopr:401909296",
+      0.7587191018520818,
+      202.3,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "New York Knicks – Indiana Pacers",
+      "0",
+      "Under 229.5",
+      [
+        106,
+        104
+      ],
+      "Passé",
+      "hoopr:401909296",
+      0.8816992516061093,
+      202.3,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "New York Knicks – Indiana Pacers",
+      "5",
+      "Under 234.5",
+      [
+        106,
+        104
+      ],
+      "Passé",
+      "hoopr:401909296",
+      0.9193923429805091,
+      202.3,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "New York Knicks – Indiana Pacers",
+      "10",
+      "Under 239.5",
+      [
+        106,
+        104
+      ],
+      "Passé",
+      "hoopr:401909296",
+      0.9472190669767802,
+      202.3,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Milwaukee Bucks – Orlando Magic",
+      "winner",
+      "Orlando Magic",
+      [
+        107,
+        99
+      ],
+      "Passé",
+      "hoopr:401909297",
+      0.7351031457026258,
+      220.4,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Milwaukee Bucks – Orlando Magic",
+      "0",
+      "Under 229.5",
+      [
+        107,
+        99
+      ],
+      "Passé",
+      "hoopr:401909297",
+      0.6536554933457472,
+      220.4,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Milwaukee Bucks – Orlando Magic",
+      "5",
+      "Under 234.5",
+      [
+        107,
+        99
+      ],
+      "Passé",
+      "hoopr:401909297",
+      0.7299561075990734,
+      220.4,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Milwaukee Bucks – Orlando Magic",
+      "10",
+      "Under 239.5",
+      [
+        107,
+        99
+      ],
+      "Passé",
+      "hoopr:401909297",
+      0.7967735717332901,
+      220.4,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Cleveland Cavaliers – Miami Heat",
+      "winner",
+      "Cleveland Cavaliers",
+      [
+        133,
+        121
+      ],
+      "Raté",
+      "hoopr:401909298",
+      0.5728383434904103,
+      242.9,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Cleveland Cavaliers – Miami Heat",
+      "0",
+      "Over 229.5",
+      [
+        133,
+        121
+      ],
+      "Passé",
+      "hoopr:401909298",
+      0.7198356334575634,
+      242.9,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Cleveland Cavaliers – Miami Heat",
+      "5",
+      "Over 224.5",
+      [
+        133,
+        121
+      ],
+      "Passé",
+      "hoopr:401909298",
+      0.7880939122728785,
+      242.9,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Cleveland Cavaliers – Miami Heat",
+      "10",
+      "Over 219.5",
+      [
+        133,
+        121
+      ],
+      "Passé",
+      "hoopr:401909298",
+      0.8454938649638619,
+      242.9,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Atlanta Hawks – Chicago Bulls",
+      "winner",
+      "Atlanta Hawks",
+      [
+        125,
+        117
+      ],
+      "Raté",
+      "hoopr:401909299",
+      0.7327277882852052,
+      251.0,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Atlanta Hawks – Chicago Bulls",
+      "0",
+      "Over 229.5",
+      [
+        125,
+        117
+      ],
+      "Passé",
+      "hoopr:401909299",
+      0.8255749676319748,
+      251.0,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Atlanta Hawks – Chicago Bulls",
+      "5",
+      "Over 224.5",
+      [
+        125,
+        117
+      ],
+      "Passé",
+      "hoopr:401909299",
+      0.8758101435607814,
+      251.0,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Atlanta Hawks – Chicago Bulls",
+      "10",
+      "Over 219.5",
+      [
+        125,
+        117
+      ],
+      "Passé",
+      "hoopr:401909299",
+      0.9149317902731621,
+      251.0,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Memphis Grizzlies – New Orleans Pelicans",
+      "winner",
+      "Memphis Grizzlies",
+      [
+        111,
+        142
+      ],
+      "Passé",
+      "hoopr:401909300",
+      0.5079437291366214,
+      240.9,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Memphis Grizzlies – New Orleans Pelicans",
+      "0",
+      "Over 229.5",
+      [
+        111,
+        142
+      ],
+      "Passé",
+      "hoopr:401909300",
+      0.6904870114562097,
+      240.9,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Memphis Grizzlies – New Orleans Pelicans",
+      "5",
+      "Over 224.5",
+      [
+        111,
+        142
+      ],
+      "Passé",
+      "hoopr:401909300",
+      0.7626037092168616,
+      240.9,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Memphis Grizzlies – New Orleans Pelicans",
+      "10",
+      "Over 219.5",
+      [
+        111,
+        142
+      ],
+      "Passé",
+      "hoopr:401909300",
+      0.8243768869821042,
+      240.9,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Utah Jazz – Houston Rockets",
+      "winner",
+      "Houston Rockets",
+      [
+        125,
+        118
+      ],
+      "Passé",
+      "hoopr:401909301",
+      0.894253649790883,
+      213.6,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Utah Jazz – Houston Rockets",
+      "0",
+      "Under 229.5",
+      [
+        125,
+        118
+      ],
+      "Raté",
+      "hoopr:401909301",
+      0.7552403336998148,
+      213.6,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Utah Jazz – Houston Rockets",
+      "5",
+      "Under 234.5",
+      [
+        125,
+        118
+      ],
+      "Raté",
+      "hoopr:401909301",
+      0.8182048967179325,
+      213.6,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Utah Jazz – Houston Rockets",
+      "10",
+      "Under 239.5",
+      [
+        125,
+        118
+      ],
+      "Raté",
+      "hoopr:401909301",
+      0.8699208404922285,
+      213.6,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Golden State Warriors – San Antonio Spurs",
+      "winner",
+      "San Antonio Spurs",
+      [
+        123,
+        85
+      ],
+      "Passé",
+      "hoopr:401909302",
+      0.7559409722284879,
+      220.9,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Golden State Warriors – San Antonio Spurs",
+      "0",
+      "Under 229.5",
+      [
+        123,
+        85
+      ],
+      "Passé",
+      "hoopr:401909302",
+      0.6455228452983288,
+      220.9,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Golden State Warriors – San Antonio Spurs",
+      "5",
+      "Under 234.5",
+      [
+        123,
+        85
+      ],
+      "Passé",
+      "hoopr:401909302",
+      0.7226501967652545,
+      220.9,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Golden State Warriors – San Antonio Spurs",
+      "10",
+      "Under 239.5",
+      [
+        123,
+        85
+      ],
+      "Passé",
+      "hoopr:401909302",
+      0.790513517773449,
+      220.9,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Portland Trail Blazers – Sacramento Kings",
+      "winner",
+      "Portland Trail Blazers",
+      [
+        107,
+        120
+      ],
+      "Passé",
+      "hoopr:401909303",
+      0.7866723970691464,
+      224.3,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Portland Trail Blazers – Sacramento Kings",
+      "0",
+      "Under 229.5",
+      [
+        107,
+        120
+      ],
+      "Passé",
+      "hoopr:401909303",
+      0.5894097362288111,
+      224.3,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Portland Trail Blazers – Sacramento Kings",
+      "5",
+      "Under 234.5",
+      [
+        107,
+        120
+      ],
+      "Passé",
+      "hoopr:401909303",
+      0.6712974349757499,
+      224.3,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Portland Trail Blazers – Sacramento Kings",
+      "10",
+      "Under 239.5",
+      [
+        107,
+        120
+      ],
+      "Passé",
+      "hoopr:401909303",
+      0.7456843331454681,
+      224.3,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Oklahoma City Thunder – LA Clippers",
+      "winner",
+      "Oklahoma City Thunder",
+      [
+        113,
+        112
+      ],
+      "Raté",
+      "hoopr:401909304",
+      0.6965586347471757,
+      215.1,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Oklahoma City Thunder – LA Clippers",
+      "0",
+      "Under 229.5",
+      [
+        113,
+        112
+      ],
+      "Passé",
+      "hoopr:401909304",
+      0.7346340137526272,
+      215.1,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Oklahoma City Thunder – LA Clippers",
+      "5",
+      "Under 234.5",
+      [
+        113,
+        112
+      ],
+      "Passé",
+      "hoopr:401909304",
+      0.8007660839010375,
+      215.1,
+      {}
+    ],
+    [
+      "2026-11-13",
+      "Oklahoma City Thunder – LA Clippers",
+      "10",
+      "Under 239.5",
+      [
+        113,
+        112
+      ],
+      "Passé",
+      "hoopr:401909304",
+      0.8558441378063792,
+      215.1,
+      {}
+    ],
+    [
+      "2026-11-14",
+      "Denver Nuggets – New Orleans Pelicans",
+      "winner",
+      "Denver Nuggets",
+      null,
+      "En attente",
+      "hoopr:401909980",
+      0.765694379083314,
+      246.0,
+      {}
+    ],
+    [
+      "2026-11-14",
+      "Denver Nuggets – New Orleans Pelicans",
+      "0",
+      "Over 228.5",
+      null,
+      "En attente",
+      "hoopr:401909980",
+      0.7767200628790183,
+      246.0,
+      {}
+    ],
+    [
+      "2026-11-14",
+      "Denver Nuggets – New Orleans Pelicans",
+      "5",
+      "Over 223.5",
+      null,
+      "En attente",
+      "hoopr:401909980",
+      0.8361874067731279,
+      246.0,
+      {}
+    ],
+    [
+      "2026-11-14",
+      "Denver Nuggets – New Orleans Pelicans",
+      "10",
+      "Over 218.5",
+      null,
+      "En attente",
+      "hoopr:401909980",
+      0.8842793345985303,
+      246.0,
+      {}
+    ],
+    [
+      "2026-11-14",
+      "Dallas Mavericks – Cleveland Cavaliers",
+      "winner",
+      "Cleveland Cavaliers",
+      null,
+      "En attente",
+      "hoopr:401909981",
+      0.6963960730006244,
+      236.0,
+      {}
+    ],
+    [
+      "2026-11-14",
+      "Dallas Mavericks – Cleveland Cavaliers",
+      "0",
+      "Over 228.5",
+      null,
+      "En attente",
+      "hoopr:401909981",
+      0.6283451879108417,
+      236.0,
+      {}
+    ],
+    [
+      "2026-11-14",
+      "Dallas Mavericks – Cleveland Cavaliers",
+      "5",
+      "Over 223.5",
+      null,
+      "En attente",
+      "hoopr:401909981",
+      0.7071987149941261,
+      236.0,
+      {}
+    ],
+    [
+      "2026-11-14",
+      "Dallas Mavericks – Cleveland Cavaliers",
+      "10",
+      "Over 218.5",
+      null,
+      "En attente",
+      "hoopr:401909981",
+      0.7772579444538608,
+      236.0,
+      {}
+    ],
+    [
+      "2026-11-14",
+      "Detroit Pistons – Miami Heat",
+      "winner",
+      "Detroit Pistons",
+      null,
+      "En attente",
+      "hoopr:401909982",
+      0.6571284346600915,
+      238.4,
+      {}
+    ],
+    [
+      "2026-11-14",
+      "Detroit Pistons – Miami Heat",
+      "0",
+      "Over 228.5",
+      null,
+      "En attente",
+      "hoopr:401909982",
+      0.6668651355379709,
+      238.4,
+      {}
+    ],
+    [
+      "2026-11-14",
+      "Detroit Pistons – Miami Heat",
+      "5",
+      "Over 223.5",
+      null,
+      "En attente",
+      "hoopr:401909982",
+      0.7418369476765454,
+      238.4,
+      {}
+    ],
+    [
+      "2026-11-14",
+      "Detroit Pistons – Miami Heat",
+      "10",
+      "Over 218.5",
+      null,
+      "En attente",
+      "hoopr:401909982",
+      0.8069645438042672,
+      238.4,
+      {}
+    ],
+    [
+      "2026-11-14",
+      "Brooklyn Nets – Memphis Grizzlies",
+      "winner",
+      "Memphis Grizzlies",
+      null,
+      "En attente",
+      "hoopr:401909983",
+      0.6699887719018286,
+      223.9,
+      {}
+    ],
+    [
+      "2026-11-14",
+      "Brooklyn Nets – Memphis Grizzlies",
+      "0",
+      "Under 228.5",
+      null,
+      "En attente",
+      "hoopr:401909983",
+      0.5791825169467179,
+      223.9,
+      {}
+    ],
+    [
+      "2026-11-14",
+      "Brooklyn Nets – Memphis Grizzlies",
+      "5",
+      "Under 233.5",
+      null,
+      "En attente",
+      "hoopr:401909983",
+      0.6618613275855212,
+      223.9,
+      {}
+    ],
+    [
+      "2026-11-14",
+      "Brooklyn Nets – Memphis Grizzlies",
+      "10",
+      "Under 238.5",
+      null,
+      "En attente",
+      "hoopr:401909983",
+      0.7373817084159997,
+      223.9,
+      {}
+    ],
+    [
+      "2026-11-14",
+      "Chicago Bulls – Minnesota Timberwolves",
+      "winner",
+      "Minnesota Timberwolves",
+      null,
+      "En attente",
+      "hoopr:401909984",
+      0.8326544088806902,
+      238.2,
+      {}
+    ],
+    [
+      "2026-11-14",
+      "Chicago Bulls – Minnesota Timberwolves",
+      "0",
+      "Over 228.5",
+      null,
+      "En attente",
+      "hoopr:401909984",
+      0.6640420244942566,
+      238.2,
+      {}
+    ],
+    [
+      "2026-11-14",
+      "Chicago Bulls – Minnesota Timberwolves",
+      "5",
+      "Over 223.5",
+      null,
+      "En attente",
+      "hoopr:401909984",
+      0.7393249717701578,
+      238.2,
+      {}
+    ],
+    [
+      "2026-11-14",
+      "Chicago Bulls – Minnesota Timberwolves",
+      "10",
+      "Over 218.5",
+      null,
+      "En attente",
+      "hoopr:401909984",
+      0.8048329140196961,
+      238.2,
+      {}
+    ]
+  ],
+  "archive_columns": [
+    "date",
+    "match",
+    "market",
+    "pick",
+    "score_home_away",
+    "result",
+    "game_id",
+    "probability",
+    "projected_total",
+    "pregame_context"
+  ]
+}

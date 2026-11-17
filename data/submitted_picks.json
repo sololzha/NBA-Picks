@@ -1,0 +1,64 @@
+{
+  "generated_at": "2026-11-13T23:06:07.792734+00:00",
+  "generated_for": "2026-11-14",
+  "completed_games_used": 6337,
+  "picks": [
+    {
+      "game_id": "hoopr:401909980",
+      "date": "2026-11-14",
+      "start_time": "2026-11-15T00:00Z",
+      "home_team": "New Orleans Pelicans",
+      "away_team": "Denver Nuggets",
+      "home_win_probability": 0.2536,
+      "pick": "Denver Nuggets",
+      "pick_probability": 0.7281,
+      "raw_pick_probability": 0.7464,
+      "confidence_policy": "calibrée sur résultats passés, avec marge de prudence",
+      "model": "elo_season_margin_v3",
+      "tier": "no_bet",
+      "winner_tier": "moyen",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "blessures / statuts incertains",
+      "injuries": {
+        "fresh": true,
+        "home_out": 5,
+        "away_out": 1,
+        "home_uncertain": 1,
+        "away_uncertain": 0
+      },
+      "away_road_games_last_4_days": 1,
+      "home_rest_days": 2,
+      "away_rest_days": 2,
+      "home_form": 0.4,
+      "away_form": 0.6,
+      "total": {
+        "projection": 239.0,
+        "market_signal": null,
+        "display_pick": "Over 231.0",
+        "pick_line": 231.0,
+        "pick_probability": null,
+        "raw_pick": "PAS DE PICK O/U",
+        "raw_line": 239.0,
+        "raw_pick_probability": null,
+        "is_book_line": false,
+        "safety_margin": 8,
+        "residual_std": 20.75,
+        "confidence": "élevée",
+        "strategy_enabled": false,
+        "home_recent_total": 242.1,
+        "away_recent_total": 239.8
+      }
+    }
+  ],
+  "model_guard": {
+    "state": "normal",
+    "confidence_floor": 0.75,
+    "reason": "modèle dans sa plage de contrôle",
+    "updated_through": "2026-11-12",
+    "recent_strong_picks": 11,
+    "recent_strong_accuracy": 0.909
+  },
+  "notice": "Vainqueurs classés par confiance du modèle. Les totaux internes restent des projections."
+}

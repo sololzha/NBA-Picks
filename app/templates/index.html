@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NBA Picks · Matchs du jour</title>
+<link rel="stylesheet" href="/static/daily.css?v=5">
+<script src="/static/daily.js?v=5" defer></script>
+</head>
+<body>
+<main>
+  <header>
+    <p class="eyebrow">NBA · Saison 2026–2027</p>
+    <h1>Matchs du jour</h1>
+    <p id="status" role="status">Chargement des prévisions…</p>
+  </header>
+  <section class="summary" aria-label="Taux historiques">
+    <div><span>Vainqueurs · backtest</span><strong id="winner-rate">—</strong><small id="winner-count"></small></div>
+    <div><span>Over/under · ligne de référence</span><strong id="total-rate">—</strong><small id="total-count"></small></div>
+  </section>
+  <section aria-label="Prévisions NBA">
+    <div class="controls">
+      <label>Journée NBA <select id="day"></select></label>
+      <label>Marge over/under <select id="margin"><option value="0">0 pt</option><option value="5" selected>5 pts</option><option value="10">10 pts</option></select></label>
+      <label>Classer par <select id="sort"><option value="winner">Probabilité vainqueur</option><option value="total">Probabilité over/under</option></select></label>
+    </div>
+    <div id="games" class="games"></div>
+  </section>
+</main>
+</body>
+</html>

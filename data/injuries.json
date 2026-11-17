@@ -1,0 +1,716 @@
+{
+  "updated_at": "2026-11-13T22:48:26.626676+00:00",
+  "teams": {
+    "Atlanta Hawks": {
+      "out": 4,
+      "uncertain": 1,
+      "other": 0,
+      "players": [
+        {
+          "name": "Mouhamed Gueye",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Keshon Gilbert",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Asa Newell",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Kingston Flemings",
+          "status": "Day-To-Day",
+          "kind": "uncertain"
+        },
+        {
+          "name": "Henri Veesaar",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    },
+    "Boston Celtics": {
+      "out": 1,
+      "uncertain": 0,
+      "other": 0,
+      "players": [
+        {
+          "name": "Paul George",
+          "status": "Day-To-Day",
+          "kind": "out"
+        }
+      ]
+    },
+    "Brooklyn Nets": {
+      "out": 0,
+      "uncertain": 2,
+      "other": 0,
+      "players": [
+        {
+          "name": "Mikel Brown Jr.",
+          "status": "Day-To-Day",
+          "kind": "uncertain"
+        },
+        {
+          "name": "Nolan Traore",
+          "status": "Day-To-Day",
+          "kind": "uncertain"
+        }
+      ]
+    },
+    "Charlotte Hornets": {
+      "out": 3,
+      "uncertain": 0,
+      "other": 0,
+      "players": [
+        {
+          "name": "Brandon Miller",
+          "status": "Day-To-Day",
+          "kind": "out"
+        },
+        {
+          "name": "Kon Knueppel",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Dennis Schroder",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    },
+    "Chicago Bulls": {
+      "out": 2,
+      "uncertain": 2,
+      "other": 0,
+      "players": [
+        {
+          "name": "Tobe Awaka",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Dailyn Swain",
+          "status": "Day-To-Day",
+          "kind": "uncertain"
+        },
+        {
+          "name": "Norman Powell",
+          "status": "Day-To-Day",
+          "kind": "uncertain"
+        },
+        {
+          "name": "Caleb Wilson",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    },
+    "Cleveland Cavaliers": {
+      "out": 2,
+      "uncertain": 0,
+      "other": 0,
+      "players": [
+        {
+          "name": "Evan Mobley",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Sam Merrill",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    },
+    "Dallas Mavericks": {
+      "out": 3,
+      "uncertain": 2,
+      "other": 0,
+      "players": [
+        {
+          "name": "Max Christie",
+          "status": "Day-To-Day",
+          "kind": "uncertain"
+        },
+        {
+          "name": "Morez Johnson Jr.",
+          "status": "Day-To-Day",
+          "kind": "uncertain"
+        },
+        {
+          "name": "Dereck Lively II",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Tarik Biberovic",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Sergio de Larrea",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    },
+    "Denver Nuggets": {
+      "out": 1,
+      "uncertain": 0,
+      "other": 0,
+      "players": [
+        {
+          "name": "Julian Strawther",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    },
+    "Detroit Pistons": {
+      "out": 2,
+      "uncertain": 1,
+      "other": 0,
+      "players": [
+        {
+          "name": "Ugonna Onyenso",
+          "status": "Day-To-Day",
+          "kind": "uncertain"
+        },
+        {
+          "name": "Isaiah Joe",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Jalen Duren",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    },
+    "Golden State Warriors": {
+      "out": 5,
+      "uncertain": 1,
+      "other": 0,
+      "players": [
+        {
+          "name": "Charles Bassey",
+          "status": "Day-To-Day",
+          "kind": "uncertain"
+        },
+        {
+          "name": "Stephen Curry",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Brandon Williams",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Kristaps Porzingis",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Moses Moody",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Jimmy Butler III",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    },
+    "Houston Rockets": {
+      "out": 3,
+      "uncertain": 0,
+      "other": 0,
+      "players": [
+        {
+          "name": "Marcus Smart",
+          "status": "Suspension",
+          "kind": "out"
+        },
+        {
+          "name": "Clint Capela",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Steven Adams",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    },
+    "Indiana Pacers": {
+      "out": 3,
+      "uncertain": 2,
+      "other": 0,
+      "players": [
+        {
+          "name": "T.J. McConnell",
+          "status": "Day-To-Day",
+          "kind": "uncertain"
+        },
+        {
+          "name": "Aaron Nesmith",
+          "status": "Day-To-Day",
+          "kind": "uncertain"
+        },
+        {
+          "name": "Tyrese Haliburton",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Johnny Furphy",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Ben Sheppard",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    },
+    "LA Clippers": {
+      "out": 4,
+      "uncertain": 0,
+      "other": 0,
+      "players": [
+        {
+          "name": "Brandon Ingram",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Yanic Konan Niederhauser",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Bradley Beal",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Jordan Miller",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    },
+    "Los Angeles Lakers": {
+      "out": 0,
+      "uncertain": 4,
+      "other": 0,
+      "players": [
+        {
+          "name": "Quentin Grimes",
+          "status": "Day-To-Day",
+          "kind": "uncertain"
+        },
+        {
+          "name": "Austin Reaves",
+          "status": "Day-To-Day",
+          "kind": "uncertain"
+        },
+        {
+          "name": "Luka Doncic",
+          "status": "Day-To-Day",
+          "kind": "uncertain"
+        },
+        {
+          "name": "Collin Sexton",
+          "status": "Day-To-Day",
+          "kind": "uncertain"
+        }
+      ]
+    },
+    "Memphis Grizzlies": {
+      "out": 4,
+      "uncertain": 0,
+      "other": 0,
+      "players": [
+        {
+          "name": "Quinten Post",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Zach Edey",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Scotty Pippen Jr.",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Richie Saunders",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    },
+    "Miami Heat": {
+      "out": 1,
+      "uncertain": 1,
+      "other": 0,
+      "players": [
+        {
+          "name": "Klay Thompson",
+          "status": "Day-To-Day",
+          "kind": "uncertain"
+        },
+        {
+          "name": "Pelle Larsson",
+          "status": "Day-To-Day",
+          "kind": "out"
+        }
+      ]
+    },
+    "Minnesota Timberwolves": {
+      "out": 2,
+      "uncertain": 0,
+      "other": 0,
+      "players": [
+        {
+          "name": "Anthony Edwards",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Donte DiVincenzo",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    },
+    "New Orleans Pelicans": {
+      "out": 5,
+      "uncertain": 1,
+      "other": 0,
+      "players": [
+        {
+          "name": "Dejounte Murray",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Bryce McGowens",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Yves Missi",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Bennedict Mathurin",
+          "status": "Day-To-Day",
+          "kind": "uncertain"
+        },
+        {
+          "name": "Trey Murphy III",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Trendon Watford",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    },
+    "Oklahoma City Thunder": {
+      "out": 5,
+      "uncertain": 1,
+      "other": 0,
+      "players": [
+        {
+          "name": "Thomas Sorber",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Ajay Mitchell",
+          "status": "Day-To-Day",
+          "kind": "uncertain"
+        },
+        {
+          "name": "Jaylin Williams",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Cason Wallace",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Chet Holmgren",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Jalen Williams",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    },
+    "Orlando Magic": {
+      "out": 4,
+      "uncertain": 0,
+      "other": 0,
+      "players": [
+        {
+          "name": "Jonathan Isaac",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Paolo Banchero",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Noah Penda",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Izaiyah Nelson",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    },
+    "Philadelphia 76ers": {
+      "out": 4,
+      "uncertain": 0,
+      "other": 0,
+      "players": [
+        {
+          "name": "LeBron James",
+          "status": "Day-To-Day",
+          "kind": "out"
+        },
+        {
+          "name": "Dominick Barlow",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Adem Bona",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Ariel Hukporti",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    },
+    "Phoenix Suns": {
+      "out": 1,
+      "uncertain": 1,
+      "other": 0,
+      "players": [
+        {
+          "name": "Drew Timme",
+          "status": "Day-To-Day",
+          "kind": "uncertain"
+        },
+        {
+          "name": "Mark Williams",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    },
+    "Portland Trail Blazers": {
+      "out": 4,
+      "uncertain": 0,
+      "other": 0,
+      "players": [
+        {
+          "name": "Chris Youngblood",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Vit Krejci",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Ja Morant",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Shaedon Sharpe",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    },
+    "Sacramento Kings": {
+      "out": 3,
+      "uncertain": 0,
+      "other": 0,
+      "players": [
+        {
+          "name": "Precious Achiuwa",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Maxime Raynaud",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Ben Simmons",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    },
+    "San Antonio Spurs": {
+      "out": 2,
+      "uncertain": 2,
+      "other": 0,
+      "players": [
+        {
+          "name": "Devin Vassell",
+          "status": "Day-To-Day",
+          "kind": "uncertain"
+        },
+        {
+          "name": "De'Aaron Fox",
+          "status": "Day-To-Day",
+          "kind": "uncertain"
+        },
+        {
+          "name": "Tobias Harris",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Jayden Quaintance",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    },
+    "Toronto Raptors": {
+      "out": 4,
+      "uncertain": 1,
+      "other": 0,
+      "players": [
+        {
+          "name": "Kevin McCullar Jr.",
+          "status": "Day-To-Day",
+          "kind": "uncertain"
+        },
+        {
+          "name": "Trayce Jackson-Davis",
+          "status": "Day-To-Day",
+          "kind": "out"
+        },
+        {
+          "name": "Scottie Barnes",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Kawhi Leonard",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Nate Bittle",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    },
+    "Utah Jazz": {
+      "out": 4,
+      "uncertain": 0,
+      "other": 0,
+      "players": [
+        {
+          "name": "Trey Alexander",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Lauri Markkanen",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Jusuf Nurkic",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Jaren Jackson Jr.",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    },
+    "Washington Wizards": {
+      "out": 5,
+      "uncertain": 0,
+      "other": 0,
+      "players": [
+        {
+          "name": "Bub Carrington",
+          "status": "Day-To-Day",
+          "kind": "out"
+        },
+        {
+          "name": "Tristan Vukcevic",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Reece Beekman",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Justin Champagnie",
+          "status": "Out",
+          "kind": "out"
+        },
+        {
+          "name": "Jamir Watkins",
+          "status": "Out",
+          "kind": "out"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "selected": {
+    "margin": 8,
+    "selection": {
+      "games": 1234,
+      "accuracy": 0.6823338735818476
+    },
+    "holdout": {
+      "games": 1409,
+      "accuracy": 0.6643009226401704
+    }
+  },
+  "trials": [
+    {
+      "margin": 4,
+      "selection": {
+        "games": 1234,
+        "accuracy": 0.6085899513776337
+      },
+      "holdout": {
+        "games": 1409,
+        "accuracy": 0.5855216465578424
+      }
+    },
+    {
+      "margin": 6,
+      "selection": {
+        "games": 1234,
+        "accuracy": 0.6474878444084279
+      },
+      "holdout": {
+        "games": 1409,
+        "accuracy": 0.6252661462029808
+      }
+    },
+    {
+      "margin": 8,
+      "selection": {
+        "games": 1234,
+        "accuracy": 0.6823338735818476
+      },
+      "holdout": {
+        "games": 1409,
+        "accuracy": 0.6643009226401704
+      }
+    },
+    {
+      "margin": 10,
+      "selection": {
+        "games": 1234,
+        "accuracy": 0.7236628849270664
+      },
+      "holdout": {
+        "games": 1409,
+        "accuracy": 0.6941092973740242
+      }
+    },
+    {
+      "margin": 12,
+      "selection": {
+        "games": 1234,
+        "accuracy": 0.7576985413290114
+      },
+      "holdout": {
+        "games": 1409,
+        "accuracy": 0.730305180979418
+      }
+    },
+    {
+      "margin": 14,
+      "selection": {
+        "games": 1234,
+        "accuracy": 0.7884927066450568
+      },
+      "holdout": {
+        "games": 1409,
+        "accuracy": 0.7615330021291696
+      }
+    },
+    {
+      "margin": 16,
+      "selection": {
+        "games": 1234,
+        "accuracy": 0.8168557536466775
+      },
+      "holdout": {
+        "games": 1409,
+        "accuracy": 0.794889992902768
+      }
+    }
+  ],
+  "policy": "Marge choisie sur 2024-25 ; vérification séparée à partir de 2025-26. Une ligne alternative réellement proposée par le bookmaker reste nécessaire pour parier."
+}

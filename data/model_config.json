@@ -1,0 +1,8 @@
+{
+  "home_advantage": 70,
+  "form_weight": 0,
+  "back_to_back_weight": 0,
+  "k_factor": 24,
+  "season_retention": 0.65,
+  "score_margin": true
+}

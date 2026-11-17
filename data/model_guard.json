@@ -1,0 +1,8 @@
+{
+  "state": "normal",
+  "confidence_floor": 0.75,
+  "reason": "modèle dans sa plage de contrôle",
+  "updated_through": "2026-11-12",
+  "recent_strong_picks": 11,
+  "recent_strong_accuracy": 0.909
+}

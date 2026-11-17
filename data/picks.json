@@ -1,0 +1,3919 @@
+{
+  "generated_at": "2026-11-13T23:55:23.794158+00:00",
+  "generated_for": "2026-11-13",
+  "completed_games_used": 6337,
+  "picks": [
+    {
+      "game_id": "hoopr:401910017",
+      "date": "2026-11-18",
+      "start_time": "2026-11-19T03:00Z",
+      "home_team": "Los Angeles Lakers",
+      "away_team": "Utah Jazz",
+      "pick": "Los Angeles Lakers",
+      "home_win_probability": 0.8994757559492366,
+      "pick_probability": 0.8994757559492366,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "fort",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 228.6,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.6013185736814777,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.6013185736814777,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.5156703353877862,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.6013185736814777,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.6823332220715711,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909988",
+      "date": "2026-11-15",
+      "start_time": "2026-11-15T22:00Z",
+      "home_team": "Utah Jazz",
+      "away_team": "San Antonio Spurs",
+      "pick": "San Antonio Spurs",
+      "home_win_probability": 0.10448647910190241,
+      "pick_probability": 0.8955135208980975,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "fort",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 220.2,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.7333163551223334,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.7333163551223334,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.6574090948238055,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.7333163551223334,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.7996427336056451,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909301",
+      "date": "2026-11-13",
+      "start_time": "2026-11-14T01:30Z",
+      "home_team": "Houston Rockets",
+      "away_team": "Utah Jazz",
+      "pick": "Houston Rockets",
+      "home_win_probability": 0.894253649790883,
+      "pick_probability": 0.894253649790883,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "fort",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 213.6,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.8182048967179325,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.8182048967179325,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.7552403336998148,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.8182048967179325,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.8699208404922285,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909313",
+      "date": "2026-11-20",
+      "start_time": "2026-11-21T03:00Z",
+      "home_team": "Los Angeles Lakers",
+      "away_team": "Sacramento Kings",
+      "pick": "Los Angeles Lakers",
+      "home_win_probability": 0.8791129596921612,
+      "pick_probability": 0.8791129596921612,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "fort",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 228.2,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.60862432680552,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.60862432680552,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.5232306714640277,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.60862432680552,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.6890668636353108,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909984",
+      "date": "2026-11-14",
+      "start_time": "2026-11-15T01:00Z",
+      "home_team": "Minnesota Timberwolves",
+      "away_team": "Chicago Bulls",
+      "pick": "Minnesota Timberwolves",
+      "home_win_probability": 0.8446832938432399,
+      "pick_probability": 0.8446832938432399,
+      "model": "daily_strategy",
+      "tier": "fort",
+      "winner_tier": "fort",
+      "moneyline_quote": null,
+      "eligible": true,
+      "market_min_return": 0.05,
+      "no_bet_reason": null,
+      "total": {
+        "projection": 239.4,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Over 224.5",
+        "pick_line": 224.5,
+        "pick_probability": 0.7409795438379875,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Over 224.5",
+          "direction": "Over",
+          "line": 224.5,
+          "probability": 0.7409795438379875,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Over 229.5",
+            "direction": "Over",
+            "line": 229.5,
+            "probability": 0.6660007216372927,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Over 224.5",
+            "direction": "Over",
+            "line": 224.5,
+            "probability": 0.7409795438379875,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Over 219.5",
+            "direction": "Over",
+            "line": 219.5,
+            "probability": 0.8061620953052823,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909310",
+      "date": "2026-11-20",
+      "start_time": "2026-11-21T01:00Z",
+      "home_team": "Oklahoma City Thunder",
+      "away_team": "New Orleans Pelicans",
+      "pick": "Oklahoma City Thunder",
+      "home_win_probability": 0.8420453368566483,
+      "pick_probability": 0.8420453368566483,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "fort",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 227.7,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.6156624593358765,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.6156624593358765,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.5305436983794343,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.6156624593358765,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.6955275518372974,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909993",
+      "date": "2026-11-15",
+      "start_time": "2026-11-16T02:00Z",
+      "home_team": "Sacramento Kings",
+      "away_team": "Oklahoma City Thunder",
+      "pick": "Oklahoma City Thunder",
+      "home_win_probability": 0.15822082839156926,
+      "pick_probability": 0.8417791716084307,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "fort",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 212.5,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.8301534809635267,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.8301534809635267,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.7695300962003142,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.8301534809635267,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.8794503827762135,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909991",
+      "date": "2026-11-15",
+      "start_time": "2026-11-16T00:00Z",
+      "home_team": "Washington Wizards",
+      "away_team": "Houston Rockets",
+      "pick": "Houston Rockets",
+      "home_win_probability": 0.16905815503617336,
+      "pick_probability": 0.8309418449638266,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "fort",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 220.7,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.72524330268064,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.72524330268064,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.6484049474371879,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.72524330268064,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.7927388340386325,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909989",
+      "date": "2026-11-15",
+      "start_time": "2026-11-15T23:00Z",
+      "home_team": "Boston Celtics",
+      "away_team": "Dallas Mavericks",
+      "pick": "Boston Celtics",
+      "home_win_probability": 0.8207470951708318,
+      "pick_probability": 0.8207470951708318,
+      "model": "daily_strategy",
+      "tier": "fort",
+      "winner_tier": "fort",
+      "moneyline_quote": null,
+      "eligible": true,
+      "market_min_return": 0.05,
+      "no_bet_reason": null,
+      "total": {
+        "projection": 213.1,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.8244867704581818,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.8244867704581818,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.76273514802865,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.8244867704581818,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.8749428671495986,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909995",
+      "date": "2026-11-16",
+      "start_time": "2026-11-17T00:00Z",
+      "home_team": "Cleveland Cavaliers",
+      "away_team": "Chicago Bulls",
+      "pick": "Cleveland Cavaliers",
+      "home_win_probability": 0.8127617120994186,
+      "pick_probability": 0.8127617120994186,
+      "model": "daily_strategy",
+      "tier": "fort",
+      "winner_tier": "fort",
+      "moneyline_quote": null,
+      "eligible": true,
+      "market_min_return": 0.05,
+      "no_bet_reason": null,
+      "total": {
+        "projection": 251.8,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Over 224.5",
+        "pick_line": 224.5,
+        "pick_probability": 0.8825997112501346,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Over 224.5",
+          "direction": "Over",
+          "line": 224.5,
+          "probability": 0.8825997112501346,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Over 229.5",
+            "direction": "Over",
+            "line": 229.5,
+            "probability": 0.8341291363386374,
+            "push_probability": 5.551115123125783e-17,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Over 224.5",
+            "direction": "Over",
+            "line": 224.5,
+            "probability": 0.8825997112501346,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Over 219.5",
+            "direction": "Over",
+            "line": 219.5,
+            "probability": 0.9200718584902693,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401910022",
+      "date": "2026-11-19",
+      "start_time": "2026-11-20T01:00Z",
+      "home_team": "San Antonio Spurs",
+      "away_team": "LA Clippers",
+      "pick": "San Antonio Spurs",
+      "home_win_probability": 0.8093525429298677,
+      "pick_probability": 0.8093525429298677,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "fort",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 222.3,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.7024418958337051,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.7024418958337051,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.6232261670294005,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.7024418958337051,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.7730437976987614,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909307",
+      "date": "2026-11-20",
+      "start_time": "2026-11-21T00:30Z",
+      "home_team": "Cleveland Cavaliers",
+      "away_team": "Indiana Pacers",
+      "pick": "Cleveland Cavaliers",
+      "home_win_probability": 0.8022387270059711,
+      "pick_probability": 0.8022387270059711,
+      "model": "daily_strategy",
+      "tier": "fort",
+      "winner_tier": "fort",
+      "moneyline_quote": null,
+      "eligible": true,
+      "market_min_return": 0.05,
+      "no_bet_reason": null,
+      "total": {
+        "projection": 228.7,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.6002431878489337,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.6002431878489337,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.5145601044224097,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.6002431878489337,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.6813397039481598,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401910008",
+      "date": "2026-11-18",
+      "start_time": "2026-11-19T00:00Z",
+      "home_team": "Indiana Pacers",
+      "away_team": "Houston Rockets",
+      "pick": "Houston Rockets",
+      "home_win_probability": 0.1998906112095694,
+      "pick_probability": 0.8001093887904306,
+      "model": "daily_strategy",
+      "tier": "fort",
+      "winner_tier": "fort",
+      "moneyline_quote": null,
+      "eligible": true,
+      "market_min_return": 0.05,
+      "no_bet_reason": null,
+      "total": {
+        "projection": 210.6,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.8505632598328399,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.8505632598328399,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.7942852048543967,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.8505632598328399,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.8955007269753501,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909985",
+      "date": "2026-11-15",
+      "start_time": "2026-11-15T18:00Z",
+      "home_team": "Philadelphia 76ers",
+      "away_team": "Indiana Pacers",
+      "pick": "Philadelphia 76ers",
+      "home_win_probability": 0.7958968694795341,
+      "pick_probability": 0.7958968694795341,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "fort",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 215.3,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.7987697377865068,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.7987697377865068,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.7322931483597536,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.7987697377865068,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.8542202507553481,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401910013",
+      "date": "2026-11-18",
+      "start_time": "2026-11-19T01:00Z",
+      "home_team": "New Orleans Pelicans",
+      "away_team": "Detroit Pistons",
+      "pick": "Detroit Pistons",
+      "home_win_probability": 0.20710719081381512,
+      "pick_probability": 0.7928928091861849,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "fort",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 240.7,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Over 224.5",
+        "pick_line": 224.5,
+        "pick_probability": 0.7600805974362954,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Over 224.5",
+          "direction": "Over",
+          "line": 224.5,
+          "probability": 0.7600805974362954,
+          "push_probability": 5.551115123125783e-17,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Over 229.5",
+            "direction": "Over",
+            "line": 229.5,
+            "probability": 0.687611047976793,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Over 224.5",
+            "direction": "Over",
+            "line": 224.5,
+            "probability": 0.7600805974362954,
+            "push_probability": 5.551115123125783e-17,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Over 219.5",
+            "direction": "Over",
+            "line": 219.5,
+            "probability": 0.8222655856363263,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909303",
+      "date": "2026-11-13",
+      "start_time": "2026-11-14T03:00Z",
+      "home_team": "Sacramento Kings",
+      "away_team": "Portland Trail Blazers",
+      "pick": "Portland Trail Blazers",
+      "home_win_probability": 0.21332760293085365,
+      "pick_probability": 0.7866723970691464,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "fort",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 224.3,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.6712974349757499,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.6712974349757499,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.5894097362288111,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.6712974349757499,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.7456843331454681,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909994",
+      "date": "2026-11-16",
+      "start_time": "2026-11-17T00:00Z",
+      "home_team": "Boston Celtics",
+      "away_team": "Orlando Magic",
+      "pick": "Boston Celtics",
+      "home_win_probability": 0.7836780212017987,
+      "pick_probability": 0.7836780212017987,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "fort",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 207.9,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.8760229133150593,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.8760229133150593,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.825842088936317,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.8760229133150593,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.9150934388012484,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401910020",
+      "date": "2026-11-19",
+      "start_time": "2026-11-20T01:00Z",
+      "home_team": "Milwaukee Bucks",
+      "away_team": "Portland Trail Blazers",
+      "pick": "Portland Trail Blazers",
+      "home_win_probability": 0.22583636019050166,
+      "pick_probability": 0.7741636398094983,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "fort",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 224.4,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.669634394726957,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.669634394726957,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.587622001874897,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.669634394726957,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.7442087521071579,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401910006",
+      "date": "2026-11-17",
+      "start_time": "2026-11-18T03:30Z",
+      "home_team": "LA Clippers",
+      "away_team": "Utah Jazz",
+      "pick": "LA Clippers",
+      "home_win_probability": 0.7721713445870315,
+      "pick_probability": 0.7721713445870315,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "fort",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 224.8,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.663710767076967,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.663710767076967,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.5812686776708231,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.663710767076967,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.7389408774211468,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401910012",
+      "date": "2026-11-18",
+      "start_time": "2026-11-19T00:30Z",
+      "home_team": "Toronto Raptors",
+      "away_team": "Washington Wizards",
+      "pick": "Toronto Raptors",
+      "home_win_probability": 0.7675870937222296,
+      "pick_probability": 0.7675870937222296,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "fort",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 227.9,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.6134329751647851,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.6134329751647851,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.5282239715567474,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.6134329751647851,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.6934837795980804,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909296",
+      "date": "2026-11-13",
+      "start_time": "2026-11-14T00:00Z",
+      "home_team": "Indiana Pacers",
+      "away_team": "New York Knicks",
+      "pick": "New York Knicks",
+      "home_win_probability": 0.24128089814791823,
+      "pick_probability": 0.7587191018520818,
+      "model": "daily_strategy",
+      "tier": "fort",
+      "winner_tier": "fort",
+      "moneyline_quote": null,
+      "eligible": true,
+      "market_min_return": 0.05,
+      "no_bet_reason": null,
+      "total": {
+        "projection": 202.3,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.9193923429805091,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.9193923429805091,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.8816992516061093,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.9193923429805091,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.9472190669767802,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909311",
+      "date": "2026-11-20",
+      "start_time": "2026-11-21T02:30Z",
+      "home_team": "Utah Jazz",
+      "away_team": "Phoenix Suns",
+      "pick": "Phoenix Suns",
+      "home_win_probability": 0.24228017586322187,
+      "pick_probability": 0.7577198241367782,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "fort",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 220.7,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.7256322590942912,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.7256322590942912,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.648837672121628,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.7256322590942912,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.7930722993797032,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909302",
+      "date": "2026-11-13",
+      "start_time": "2026-11-14T02:30Z",
+      "home_team": "San Antonio Spurs",
+      "away_team": "Golden State Warriors",
+      "pick": "San Antonio Spurs",
+      "home_win_probability": 0.7559409722284879,
+      "pick_probability": 0.7559409722284879,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "fort",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 220.9,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.7226501967652545,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.7226501967652545,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.6455228452983288,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.7226501967652545,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.790513517773449,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909997",
+      "date": "2026-11-16",
+      "start_time": "2026-11-17T00:30Z",
+      "home_team": "Brooklyn Nets",
+      "away_team": "Philadelphia 76ers",
+      "pick": "Philadelphia 76ers",
+      "home_win_probability": 0.2508914930652244,
+      "pick_probability": 0.7491085069347756,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 214.7,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.8050710007826989,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.8050710007826989,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.7396942803003723,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.8050710007826989,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.8593372863546392,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909980",
+      "date": "2026-11-14",
+      "start_time": "2026-11-15T00:00Z",
+      "home_team": "New Orleans Pelicans",
+      "away_team": "Denver Nuggets",
+      "pick": "Denver Nuggets",
+      "home_win_probability": 0.2535516675620642,
+      "pick_probability": 0.7464483324379358,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 244.7,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Over 224.5",
+        "pick_line": 224.5,
+        "pick_probability": 0.8105222011232611,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Over 224.5",
+          "direction": "Over",
+          "line": 224.5,
+          "probability": 0.8105222011232611,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Over 229.5",
+            "direction": "Over",
+            "line": 229.5,
+            "probability": 0.7461267004397802,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Over 224.5",
+            "direction": "Over",
+            "line": 224.5,
+            "probability": 0.8105222011232611,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Over 219.5",
+            "direction": "Over",
+            "line": 219.5,
+            "probability": 0.8637435558916593,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909992",
+      "date": "2026-11-15",
+      "start_time": "2026-11-16T01:00Z",
+      "home_team": "Milwaukee Bucks",
+      "away_team": "Atlanta Hawks",
+      "pick": "Atlanta Hawks",
+      "home_win_probability": 0.2567346699894016,
+      "pick_probability": 0.7432653300105985,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 230.5,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Over 224.5",
+        "pick_line": 224.5,
+        "pick_probability": 0.603765281314631,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Over 224.5",
+          "direction": "Over",
+          "line": 224.5,
+          "probability": 0.603765281314631,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Over 229.5",
+            "direction": "Over",
+            "line": 229.5,
+            "probability": 0.5181988306815755,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Over 224.5",
+            "direction": "Over",
+            "line": 224.5,
+            "probability": 0.603765281314631,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Over 219.5",
+            "direction": "Over",
+            "line": 219.5,
+            "probability": 0.6845914229303476,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401910009",
+      "date": "2026-11-18",
+      "start_time": "2026-11-19T00:00Z",
+      "home_team": "Miami Heat",
+      "away_team": "Milwaukee Bucks",
+      "pick": "Miami Heat",
+      "home_win_probability": 0.7420066373506575,
+      "pick_probability": 0.7420066373506575,
+      "model": "daily_strategy",
+      "tier": "observation",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": true,
+      "market_min_return": 0.05,
+      "no_bet_reason": null,
+      "total": {
+        "projection": 233.6,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Over 224.5",
+        "pick_line": 224.5,
+        "pick_probability": 0.6536030745864,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Over 224.5",
+          "direction": "Over",
+          "line": 224.5,
+          "probability": 0.6536030745864,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Over 229.5",
+            "direction": "Over",
+            "line": 229.5,
+            "probability": 0.5704793590922909,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Over 224.5",
+            "direction": "Over",
+            "line": 224.5,
+            "probability": 0.6536030745864,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Over 219.5",
+            "direction": "Over",
+            "line": 219.5,
+            "probability": 0.7299091292744625,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401910007",
+      "date": "2026-11-18",
+      "start_time": "2026-11-19T00:00Z",
+      "home_team": "Cleveland Cavaliers",
+      "away_team": "Memphis Grizzlies",
+      "pick": "Cleveland Cavaliers",
+      "home_win_probability": 0.7403349260246944,
+      "pick_probability": 0.7403349260246944,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 235.2,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Over 224.5",
+        "pick_line": 224.5,
+        "pick_probability": 0.6784585784859434,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Over 224.5",
+          "direction": "Over",
+          "line": 224.5,
+          "probability": 0.6784585784859434,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Over 229.5",
+            "direction": "Over",
+            "line": 229.5,
+            "probability": 0.5971283273483572,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Over 224.5",
+            "direction": "Over",
+            "line": 224.5,
+            "probability": 0.6784585784859434,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Over 219.5",
+            "direction": "Over",
+            "line": 219.5,
+            "probability": 0.7520213942011028,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909297",
+      "date": "2026-11-13",
+      "start_time": "2026-11-14T00:00Z",
+      "home_team": "Orlando Magic",
+      "away_team": "Milwaukee Bucks",
+      "pick": "Orlando Magic",
+      "home_win_probability": 0.7351031457026258,
+      "pick_probability": 0.7351031457026258,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 220.4,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.7299561075990734,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.7299561075990734,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.6536554933457472,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.7299561075990734,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.7967735717332901,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909308",
+      "date": "2026-11-20",
+      "start_time": "2026-11-21T00:30Z",
+      "home_team": "Detroit Pistons",
+      "away_team": "Toronto Raptors",
+      "pick": "Detroit Pistons",
+      "home_win_probability": 0.7348361764503666,
+      "pick_probability": 0.7348361764503666,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 224.1,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.6752136333031918,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.6752136333031918,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.5936266462891815,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.6752136333031918,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.7491532645640924,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909299",
+      "date": "2026-11-13",
+      "start_time": "2026-11-14T01:00Z",
+      "home_team": "Chicago Bulls",
+      "away_team": "Atlanta Hawks",
+      "pick": "Atlanta Hawks",
+      "home_win_probability": 0.2672722117147948,
+      "pick_probability": 0.7327277882852052,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 251.0,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Over 224.5",
+        "pick_line": 224.5,
+        "pick_probability": 0.8758101435607814,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Over 224.5",
+          "direction": "Over",
+          "line": 224.5,
+          "probability": 0.8758101435607814,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Over 229.5",
+            "direction": "Over",
+            "line": 229.5,
+            "probability": 0.8255749676319748,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Over 224.5",
+            "direction": "Over",
+            "line": 224.5,
+            "probability": 0.8758101435607814,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Over 219.5",
+            "direction": "Over",
+            "line": 219.5,
+            "probability": 0.9149317902731621,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401910005",
+      "date": "2026-11-17",
+      "start_time": "2026-11-18T04:00Z",
+      "home_team": "Los Angeles Lakers",
+      "away_team": "Charlotte Hornets",
+      "pick": "Los Angeles Lakers",
+      "home_win_probability": 0.7302767134370441,
+      "pick_probability": 0.7302767134370441,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 210.6,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.8511828097898941,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.8511828097898941,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.7950438675679148,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.8511828097898941,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.8959833015424831,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401910018",
+      "date": "2026-11-18",
+      "start_time": "2026-11-19T03:00Z",
+      "home_team": "Sacramento Kings",
+      "away_team": "Phoenix Suns",
+      "pick": "Phoenix Suns",
+      "home_win_probability": 0.2823443247824988,
+      "pick_probability": 0.7176556752175012,
+      "model": "daily_strategy",
+      "tier": "observation",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": true,
+      "market_min_return": 0.05,
+      "no_bet_reason": null,
+      "total": {
+        "projection": 220.3,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.7319198826766945,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.7319198826766945,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.6558481391645928,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.7319198826766945,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.7984511220634367,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909981",
+      "date": "2026-11-14",
+      "start_time": "2026-11-15T00:30Z",
+      "home_team": "Cleveland Cavaliers",
+      "away_team": "Dallas Mavericks",
+      "pick": "Cleveland Cavaliers",
+      "home_win_probability": 0.7127483682064204,
+      "pick_probability": 0.7127483682064204,
+      "model": "daily_strategy",
+      "tier": "observation",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": true,
+      "market_min_return": 0.05,
+      "no_bet_reason": null,
+      "total": {
+        "projection": 234.8,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Over 224.5",
+        "pick_line": 224.5,
+        "pick_probability": 0.6735562530483987,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Over 224.5",
+          "direction": "Over",
+          "line": 224.5,
+          "probability": 0.6735562530483987,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Over 229.5",
+            "direction": "Over",
+            "line": 229.5,
+            "probability": 0.5918407859075399,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Over 224.5",
+            "direction": "Over",
+            "line": 224.5,
+            "probability": 0.6735562530483987,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Over 219.5",
+            "direction": "Over",
+            "line": 219.5,
+            "probability": 0.7476861725610122,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909304",
+      "date": "2026-11-13",
+      "start_time": "2026-11-14T03:30Z",
+      "home_team": "LA Clippers",
+      "away_team": "Oklahoma City Thunder",
+      "pick": "Oklahoma City Thunder",
+      "home_win_probability": 0.3034413652528243,
+      "pick_probability": 0.6965586347471757,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 215.1,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.8007660839010375,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.8007660839010375,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.7346340137526272,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.8007660839010375,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.8558441378063792,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909982",
+      "date": "2026-11-14",
+      "start_time": "2026-11-15T01:00Z",
+      "home_team": "Miami Heat",
+      "away_team": "Detroit Pistons",
+      "pick": "Detroit Pistons",
+      "home_win_probability": 0.32539251934056185,
+      "pick_probability": 0.6746074806594382,
+      "model": "daily_strategy",
+      "tier": "observation",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": true,
+      "market_min_return": 0.05,
+      "no_bet_reason": null,
+      "total": {
+        "projection": 237.2,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Over 224.5",
+        "pick_line": 224.5,
+        "pick_probability": 0.7100132161385916,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Over 224.5",
+          "direction": "Over",
+          "line": 224.5,
+          "probability": 0.7100132161385916,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Over 229.5",
+            "direction": "Over",
+            "line": 229.5,
+            "probability": 0.6315463137029043,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Over 224.5",
+            "direction": "Over",
+            "line": 224.5,
+            "probability": 0.7100132161385916,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Over 219.5",
+            "direction": "Over",
+            "line": 219.5,
+            "probability": 0.7796154348940236,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401910014",
+      "date": "2026-11-18",
+      "start_time": "2026-11-19T01:00Z",
+      "home_team": "Oklahoma City Thunder",
+      "away_team": "Atlanta Hawks",
+      "pick": "Oklahoma City Thunder",
+      "home_win_probability": 0.6700032327769432,
+      "pick_probability": 0.6700032327769432,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 221.2,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.7187756092866547,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.7187756092866547,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.6412254650551568,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.7187756092866547,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.7871814956143195,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401910001",
+      "date": "2026-11-16",
+      "start_time": "2026-11-17T02:00Z",
+      "home_team": "Denver Nuggets",
+      "away_team": "Phoenix Suns",
+      "pick": "Denver Nuggets",
+      "home_win_probability": 0.6599290533911176,
+      "pick_probability": 0.6599290533911176,
+      "model": "daily_strategy",
+      "tier": "observation",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": true,
+      "market_min_return": 0.05,
+      "no_bet_reason": null,
+      "total": {
+        "projection": 228.0,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.6111884098718197,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.6111884098718197,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.5258915200387958,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.6111884098718197,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.6914235652130245,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401910000",
+      "date": "2026-11-16",
+      "start_time": "2026-11-17T01:00Z",
+      "home_team": "New Orleans Pelicans",
+      "away_team": "Golden State Warriors",
+      "pick": "Golden State Warriors",
+      "home_win_probability": 0.34530620744021795,
+      "pick_probability": 0.654693792559782,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 238.2,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Over 224.5",
+        "pick_line": 224.5,
+        "pick_probability": 0.7239865006224204,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Over 224.5",
+          "direction": "Over",
+          "line": 224.5,
+          "probability": 0.7239865006224204,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Over 229.5",
+            "direction": "Over",
+            "line": 229.5,
+            "probability": 0.6470074702481632,
+            "push_probability": 5.551115123125783e-17,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Over 224.5",
+            "direction": "Over",
+            "line": 224.5,
+            "probability": 0.7239865006224204,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Over 219.5",
+            "direction": "Over",
+            "line": 219.5,
+            "probability": 0.7916607575907562,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909306",
+      "date": "2026-11-20",
+      "start_time": "2026-11-21T00:30Z",
+      "home_team": "Brooklyn Nets",
+      "away_team": "Orlando Magic",
+      "pick": "Orlando Magic",
+      "home_win_probability": 0.3471759871921903,
+      "pick_probability": 0.6528240128078098,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 217.2,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.7737483271663803,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.7737483271663803,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.7032518712864784,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.7737483271663803,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.8336575093341486,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909998",
+      "date": "2026-11-16",
+      "start_time": "2026-11-17T00:30Z",
+      "home_team": "Miami Heat",
+      "away_team": "Houston Rockets",
+      "pick": "Houston Rockets",
+      "home_win_probability": 0.34854037297662704,
+      "pick_probability": 0.651459627023373,
+      "model": "daily_strategy",
+      "tier": "observation",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": true,
+      "market_min_return": 0.05,
+      "no_bet_reason": null,
+      "total": {
+        "projection": 224.8,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.662755091499274,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.662755091499274,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.5802457818038457,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.662755091499274,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.7380892491725217,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909983",
+      "date": "2026-11-14",
+      "start_time": "2026-11-15T01:00Z",
+      "home_team": "Memphis Grizzlies",
+      "away_team": "Brooklyn Nets",
+      "pick": "Memphis Grizzlies",
+      "home_win_probability": 0.6465106436840364,
+      "pick_probability": 0.6465106436840364,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 222.7,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.6966805638877215,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.6966805638877215,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.6169214915711104,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.6966805638877215,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.7680221756136745,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909986",
+      "date": "2026-11-15",
+      "start_time": "2026-11-15T21:00Z",
+      "home_team": "Phoenix Suns",
+      "away_team": "Los Angeles Lakers",
+      "pick": "Los Angeles Lakers",
+      "home_win_probability": 0.3697912078432224,
+      "pick_probability": 0.6302087921567776,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 226.6,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.6339631534508687,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.6339631534508687,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.5496973047754496,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.6339631534508687,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.7122057468282893,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909305",
+      "date": "2026-11-20",
+      "start_time": "2026-11-21T00:00Z",
+      "home_team": "Atlanta Hawks",
+      "away_team": "Charlotte Hornets",
+      "pick": "Atlanta Hawks",
+      "home_win_probability": 0.6209018998775673,
+      "pick_probability": 0.6209018998775673,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 212.8,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.826959323809307,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.826959323809307,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.7656959581174546,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.826959323809307,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.8769123012083389,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401910019",
+      "date": "2026-11-19",
+      "start_time": "2026-11-20T01:00Z",
+      "home_team": "Memphis Grizzlies",
+      "away_team": "Golden State Warriors",
+      "pick": "Golden State Warriors",
+      "home_win_probability": 0.392869901569254,
+      "pick_probability": 0.607130098430746,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 226.9,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.6292202161951259,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.6292202161951259,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.5447139835637793,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.6292202161951259,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.7079001174534868,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401910004",
+      "date": "2026-11-17",
+      "start_time": "2026-11-18T01:00Z",
+      "home_team": "San Antonio Spurs",
+      "away_team": "Detroit Pistons",
+      "pick": "San Antonio Spurs",
+      "home_win_probability": 0.6053572087853424,
+      "pick_probability": 0.6053572087853424,
+      "model": "daily_strategy",
+      "tier": "observation",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": true,
+      "market_min_return": 0.05,
+      "no_bet_reason": null,
+      "total": {
+        "projection": 223.5,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.6839937651494191,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.6839937651494191,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.6031174045663033,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.6839937651494191,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.7569007842538735,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909996",
+      "date": "2026-11-16",
+      "start_time": "2026-11-17T00:00Z",
+      "home_team": "Washington Wizards",
+      "away_team": "Memphis Grizzlies",
+      "pick": "Memphis Grizzlies",
+      "home_win_probability": 0.4048539307719273,
+      "pick_probability": 0.5951460692280728,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 233.3,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Over 224.5",
+        "pick_line": 224.5,
+        "pick_probability": 0.6491657199214593,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Over 224.5",
+          "direction": "Over",
+          "line": 224.5,
+          "probability": 0.6491657199214593,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Over 229.5",
+            "direction": "Over",
+            "line": 229.5,
+            "probability": 0.5657630716384463,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Over 224.5",
+            "direction": "Over",
+            "line": 224.5,
+            "probability": 0.6491657199214593,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Over 219.5",
+            "direction": "Over",
+            "line": 219.5,
+            "probability": 0.7259270604815324,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909999",
+      "date": "2026-11-16",
+      "start_time": "2026-11-17T01:00Z",
+      "home_team": "Minnesota Timberwolves",
+      "away_team": "Portland Trail Blazers",
+      "pick": "Minnesota Timberwolves",
+      "home_win_probability": 0.5849997536948573,
+      "pick_probability": 0.5849997536948573,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 221.3,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.7176452172642114,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.7176452172642114,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.6399737498271257,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.7176452172642114,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.7862078225711627,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401910003",
+      "date": "2026-11-17",
+      "start_time": "2026-11-18T01:00Z",
+      "home_team": "Minnesota Timberwolves",
+      "away_team": "Portland Trail Blazers",
+      "pick": "Minnesota Timberwolves",
+      "home_win_probability": 0.5849997536948573,
+      "pick_probability": 0.5849997536948573,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 221.3,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.7176452172642114,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.7176452172642114,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.6399737498271257,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.7176452172642114,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.7862078225711627,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909990",
+      "date": "2026-11-15",
+      "start_time": "2026-11-15T23:00Z",
+      "home_team": "Toronto Raptors",
+      "away_team": "New York Knicks",
+      "pick": "New York Knicks",
+      "home_win_probability": 0.4184921929766721,
+      "pick_probability": 0.5815078070233279,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 203.3,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.9122869784378835,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.9122869784378835,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.8723356773252771,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.9122869784378835,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.9420763196351453,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401910002",
+      "date": "2026-11-17",
+      "start_time": "2026-11-18T00:30Z",
+      "home_team": "Toronto Raptors",
+      "away_team": "New York Knicks",
+      "pick": "New York Knicks",
+      "home_win_probability": 0.4184921929766721,
+      "pick_probability": 0.5815078070233279,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 203.3,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.9122869784378835,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.9122869784378835,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.8723356773252771,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.9122869784378835,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.9420763196351453,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909309",
+      "date": "2026-11-20",
+      "start_time": "2026-11-21T01:00Z",
+      "home_team": "Chicago Bulls",
+      "away_team": "Washington Wizards",
+      "pick": "Chicago Bulls",
+      "home_win_probability": 0.576963968620477,
+      "pick_probability": 0.576963968620477,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 250.0,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Over 224.5",
+        "pick_line": 224.5,
+        "pick_probability": 0.8660171750562833,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Over 224.5",
+          "direction": "Over",
+          "line": 224.5,
+          "probability": 0.8660171750562833,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Over 229.5",
+            "direction": "Over",
+            "line": 229.5,
+            "probability": 0.8133443324213689,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Over 224.5",
+            "direction": "Over",
+            "line": 224.5,
+            "probability": 0.8660171750562833,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Over 219.5",
+            "direction": "Over",
+            "line": 219.5,
+            "probability": 0.9074527839013103,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401910021",
+      "date": "2026-11-19",
+      "start_time": "2026-11-20T01:00Z",
+      "home_team": "Minnesota Timberwolves",
+      "away_team": "New York Knicks",
+      "pick": "Minnesota Timberwolves",
+      "home_win_probability": 0.5762557504394965,
+      "pick_probability": 0.5762557504394965,
+      "model": "daily_strategy",
+      "tier": "observation",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": true,
+      "market_min_return": 0.05,
+      "no_bet_reason": null,
+      "total": {
+        "projection": 201.8,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.9224904280180697,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.9224904280180697,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.8858119951849328,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.9224904280180697,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.9494450215016252,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401910016",
+      "date": "2026-11-18",
+      "start_time": "2026-11-19T02:30Z",
+      "home_team": "Dallas Mavericks",
+      "away_team": "Golden State Warriors",
+      "pick": "Golden State Warriors",
+      "home_win_probability": 0.4264562692366045,
+      "pick_probability": 0.5735437307633955,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 226.6,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.6343614146803994,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.6343614146803994,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.5501163721598762,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.6343614146803994,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.7125667513952328,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909298",
+      "date": "2026-11-13",
+      "start_time": "2026-11-14T01:00Z",
+      "home_team": "Miami Heat",
+      "away_team": "Cleveland Cavaliers",
+      "pick": "Cleveland Cavaliers",
+      "home_win_probability": 0.42716165650958965,
+      "pick_probability": 0.5728383434904103,
+      "model": "daily_strategy",
+      "tier": "observation",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": true,
+      "market_min_return": 0.05,
+      "no_bet_reason": null,
+      "total": {
+        "projection": 242.9,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Over 224.5",
+        "pick_line": 224.5,
+        "pick_probability": 0.7880939122728785,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Over 224.5",
+          "direction": "Over",
+          "line": 224.5,
+          "probability": 0.7880939122728785,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Over 229.5",
+            "direction": "Over",
+            "line": 229.5,
+            "probability": 0.7198356334575634,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Over 224.5",
+            "direction": "Over",
+            "line": 224.5,
+            "probability": 0.7880939122728785,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Over 219.5",
+            "direction": "Over",
+            "line": 219.5,
+            "probability": 0.8454938649638619,
+            "push_probability": 5.551115123125783e-17,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401910010",
+      "date": "2026-11-18",
+      "start_time": "2026-11-19T00:00Z",
+      "home_team": "Orlando Magic",
+      "away_team": "Philadelphia 76ers",
+      "pick": "Philadelphia 76ers",
+      "home_win_probability": 0.4280788695509364,
+      "pick_probability": 0.5719211304490637,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 216.3,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.7855805133881697,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.7855805133881697,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.7169173739497462,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.7855805133881697,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.8434291526397166,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401910015",
+      "date": "2026-11-18",
+      "start_time": "2026-11-19T02:00Z",
+      "home_team": "Denver Nuggets",
+      "away_team": "Boston Celtics",
+      "pick": "Boston Celtics",
+      "home_win_probability": 0.43364653857710334,
+      "pick_probability": 0.5663534614228967,
+      "model": "daily_strategy",
+      "tier": "observation",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": true,
+      "market_min_return": 0.05,
+      "no_bet_reason": null,
+      "total": {
+        "projection": 217.2,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.774528113974347,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.774528113974347,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.7041488488462039,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.774528113974347,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.8343041018836941,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401910011",
+      "date": "2026-11-18",
+      "start_time": "2026-11-19T00:30Z",
+      "home_team": "Brooklyn Nets",
+      "away_team": "Chicago Bulls",
+      "pick": "Brooklyn Nets",
+      "home_win_probability": 0.540410990687569,
+      "pick_probability": 0.540410990687569,
+      "model": "daily_strategy",
+      "tier": "observation",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": true,
+      "market_min_return": 0.05,
+      "no_bet_reason": null,
+      "total": {
+        "projection": 239.3,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Over 224.5",
+        "pick_line": 224.5,
+        "pick_probability": 0.7404576250364722,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Over 224.5",
+          "direction": "Over",
+          "line": 224.5,
+          "probability": 0.7404576250364722,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Over 229.5",
+            "direction": "Over",
+            "line": 229.5,
+            "probability": 0.6654141723912725,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Over 224.5",
+            "direction": "Over",
+            "line": 224.5,
+            "probability": 0.7404576250364722,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Over 219.5",
+            "direction": "Over",
+            "line": 219.5,
+            "probability": 0.8057191379648183,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909300",
+      "date": "2026-11-13",
+      "start_time": "2026-11-14T01:00Z",
+      "home_team": "New Orleans Pelicans",
+      "away_team": "Memphis Grizzlies",
+      "pick": "Memphis Grizzlies",
+      "home_win_probability": 0.49205627086337855,
+      "pick_probability": 0.5079437291366214,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 240.9,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Over 224.5",
+        "pick_line": 224.5,
+        "pick_probability": 0.7626037092168616,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Over 224.5",
+          "direction": "Over",
+          "line": 224.5,
+          "probability": 0.7626037092168616,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Over 229.5",
+            "direction": "Over",
+            "line": 229.5,
+            "probability": 0.6904870114562097,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Over 224.5",
+            "direction": "Over",
+            "line": 224.5,
+            "probability": 0.7626037092168616,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Over 219.5",
+            "direction": "Over",
+            "line": 219.5,
+            "probability": 0.8243768869821042,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909987",
+      "date": "2026-11-15",
+      "start_time": "2026-11-15T21:30Z",
+      "home_team": "LA Clippers",
+      "away_team": "Charlotte Hornets",
+      "pick": "LA Clippers",
+      "home_win_probability": 0.5063062717560991,
+      "pick_probability": 0.5063062717560991,
+      "model": "daily_strategy",
+      "tier": "no_bet",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": false,
+      "market_min_return": 0.05,
+      "no_bet_reason": "Effectif incertain",
+      "total": {
+        "projection": 206.7,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.8863551758558377,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.8863551758558377,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.8388880974953756,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.8863551758558377,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.9228985363567104,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    },
+    {
+      "game_id": "hoopr:401909312",
+      "date": "2026-11-20",
+      "start_time": "2026-11-21T03:00Z",
+      "home_team": "Denver Nuggets",
+      "away_team": "Houston Rockets",
+      "pick": "Denver Nuggets",
+      "home_win_probability": 0.5034095882954265,
+      "pick_probability": 0.5034095882954265,
+      "model": "daily_strategy",
+      "tier": "observation",
+      "winner_tier": "observation",
+      "moneyline_quote": null,
+      "eligible": true,
+      "market_min_return": 0.05,
+      "no_bet_reason": null,
+      "total": {
+        "projection": 220.9,
+        "residual_std": 22.991493102904922,
+        "market_signal": null,
+        "display_pick": "Under 234.5",
+        "pick_line": 234.5,
+        "pick_probability": 0.7228426303966908,
+        "is_book_line": false,
+        "reference": {
+          "selection": "Under 234.5",
+          "direction": "Under",
+          "line": 234.5,
+          "probability": 0.7228426303966908,
+          "push_probability": 0.0,
+          "base_line": 229.5,
+          "margin_points": 5
+        },
+        "references": {
+          "0": {
+            "selection": "Under 229.5",
+            "direction": "Under",
+            "line": 229.5,
+            "probability": 0.6457365583946725,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 0
+          },
+          "5": {
+            "selection": "Under 234.5",
+            "direction": "Under",
+            "line": 234.5,
+            "probability": 0.7228426303966908,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 5
+          },
+          "10": {
+            "selection": "Under 239.5",
+            "direction": "Under",
+            "line": 239.5,
+            "probability": 0.790678786739599,
+            "push_probability": 0.0,
+            "base_line": 229.5,
+            "margin_points": 10
+          }
+        }
+      }
+    }
+  ],
+  "model_guard": {
+    "state": "normal",
+    "confidence_floor": 0.75,
+    "reason": "modèle dans sa plage de contrôle",
+    "updated_through": "2026-11-12",
+    "recent_strong_picks": 11,
+    "recent_strong_accuracy": 0.909
+  }
+}
