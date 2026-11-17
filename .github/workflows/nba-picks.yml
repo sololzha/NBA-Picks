@@ -1,0 +1,81 @@
+name: Publier NBA Picks
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/nba-picks.yml
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+
+concurrency:
+  group: nba-picks-pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+      - name: Recalculer les picks et actualiser les scores
+        run: |
+          python -m pip install -r requirements.txt
+          python -m scripts.daily_update
+      - name: Exporter le tableau pour GitHub Pages
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          from shutil import copytree
+
+          from app.main import STATIC_PATH, calendar, home, picks
+
+          site = Path('_site')
+          api = site / 'api'
+          api.mkdir(parents=True)
+          copytree(STATIC_PATH, site / 'static')
+          (site / 'index.html').write_text(home().replace('"/static/', '"./static/'), encoding='utf-8')
+          script = site / 'static' / 'daily.js'
+          source = script.read_text(encoding='utf-8')
+          for path, relative in {
+              "'/api/picks'": "'./api/picks.json'",
+              "'/api/calendar'": "'./api/calendar.json'",
+              "'/static/daily-backtest.json'": "'./static/daily-backtest.json'",
+              '5 * 60000': '(6 * 60 + 30) * 60000',
+          }.items():
+              source = source.replace(path, relative)
+          script.write_text(source, encoding='utf-8')
+          for name, payload in {'picks': picks(), 'calendar': calendar()}.items():
+              (api / f'{name}.json').write_text(json.dumps(payload, ensure_ascii=False), encoding='utf-8')
+          PY
+      - name: Conserver les picks archivés entre les exécutions
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f -- data/nba_picks.db
+          if ! git diff --cached --quiet; then
+            git commit -m 'Actualiser les archives NBA'
+            git push origin HEAD:main
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - name: Publier le site
+        id: deployment
+        uses: actions/deploy-pages@v4
